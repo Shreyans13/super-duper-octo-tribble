@@ -1,0 +1,89 @@
+{
+  "company": {
+    "name": "Applied Engineering & Service",
+    "shortName": "AE&S",
+    "tagline": "Precision Engineering Solutions",
+    "description": "Premier sales and service provider specializing in advanced cleaning services and maintenance products in collaboration with leading international brands.",
+    "location": {
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "country": "India",
+      "tagline": "JAMSHEDPUR, JHARKHAND — INDIA'S STEEL CITY"
+    },
+    "founded": 2010,
+    "certifications": ["ISO 9001:2015"],
+    "contact": {
+      "address": ["Industrial Area, Adityapur", "Jamshedpur, Jharkhand 831013", "India"],
+      "phones": ["+91 657 XXX XXXX", "+91 98765 43210"],
+      "emails": ["info@appliedengineering.in", "sales@appliedengineering.in"],
+      "hours": ["Monday - Saturday: 08:00 - 18:00", "24/7 Emergency Support Available"]
+    }
+  },
+  "navigation": {
+    "logo": {
+      "text": "AE",
+      "fullText": "APPLIED ENGINEERING"
+    },
+    "links": [
+      { "label": "Home", "path": "/" },
+      { "label": "Products", "path": "/products" },
+      { "label": "Hydraulic Rentals", "path": "/rentals" },
+      { "label": "About", "path": "/about" },
+      { "label": "Contact", "path": "/contact" }
+    ]
+  },
+  "footer": {
+    "brandDescription": "Precision engineering solutions from India's steel city. Serving heavy industries across Eastern India with quality hydraulic equipment and maintenance services.",
+    "columns": [
+      {
+        "title": "NAVIGATION",
+        "links": [
+          { "label": "About Us", "path": "/about" },
+          { "label": "Products", "path": "/products" },
+          { "label": "Hydraulic Rentals", "path": "/rentals" },
+          { "label": "Contact", "path": "/contact" }
+        ]
+      },
+      {
+        "title": "SERVICES",
+        "links": [
+          { "label": "Hydraulic Rentals", "path": "/rentals" },
+          { "label": "Equipment Sales", "path": "/products" },
+          { "label": "Maintenance", "path": "/products" },
+          { "label": "Training", "path": "/contact" }
+        ]
+      },
+      {
+        "title": "LEGAL",
+        "links": [
+          { "label": "Privacy Policy", "path": "#" },
+          { "label": "Terms of Service", "path": "#" },
+          { "label": "ISO Certification", "path": "#" }
+        ]
+      }
+    ],
+    "copyright": "© 2024 Applied Engineering & Service. All rights reserved.",
+    "bottomTag": "JAMSHEDPUR // JHARKHAND // INDIA"
+  },
+  "theme": {
+    "colors": {
+      "bgPrimary": "#0d0d0d",
+      "bgSecondary": "#141414",
+      "bgTertiary": "#1a1a1a",
+      "steelSilver": "#a8b4c0",
+      "steelLight": "#c8d4e0",
+      "copperBronze": "#b87333",
+      "copperLight": "#d4915a",
+      "blueprintBlue": "#2a4d69",
+      "blueprintCyan": "#4b86b4",
+      "textPrimary": "#f5f5f5",
+      "textSecondary": "#9ca3af",
+      "borderColor": "#2d2d2d"
+    },
+    "fonts": {
+      "heading": "Rajdhani",
+      "body": "Chakra Petch",
+      "mono": "JetBrains Mono"
+    }
+  }
+}

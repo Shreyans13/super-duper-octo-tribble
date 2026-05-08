@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "title": "Applied Engineering & Service | Industrial Precision Solutions | Jamshedpur",
+    "description": "Delivering world-class hydraulic equipment and engineering services to India's heavy industry sector with uncompromising quality and reliability."
+  },
+  "hero": {
+    "badge": "Precision Engineering Since 2010",
+    "headline": ["INDUSTRIAL", "{highlight}PRECISION{/highlight} SOLUTIONS"],
+    "subtitle": "Delivering world-class hydraulic equipment and engineering services to India's heavy industry sector with uncompromising quality and reliability.",
+    "locationBadge": "JAMSHEDPUR, JHARKHAND — INDIA'S STEEL CITY",
+    "buttons": [
+      { "label": "Explore Products", "path": "/products", "variant": "primary" },
+      { "label": "Get in Touch", "path": "/contact", "variant": "secondary" }
+    ],
+    "decor": {
+      "showGears": true,
+      "showScanLine": true,
+      "cornerAccents": true
+    }
+  },
+  "about": {
+    "sectionLabel": "About Us",
+    "title": ["ENGINEERING EXCELLENCE", "FROM THE HEART OF INDIA"],
+    "paragraphs": [
+      "Founded in Jamshedpur, the cradle of India's industrial revolution, Applied Engineering & Service has emerged as a trusted partner for heavy industries across Eastern India. Our strategic location in the steel city positions us at the epicenter of manufacturing excellence.",
+      "We specialize in providing precision hydraulic equipment, industrial maintenance solutions, and turnkey engineering services to steel plants, power generation facilities, and heavy manufacturing units."
+    ],
+    "stats": [
+      { "value": "15+", "label": "Years Experience" },
+      { "value": "500+", "label": "Projects Completed" },
+      { "value": "50+", "label": "Industry Partners" },
+      { "value": "99%", "label": "Client Retention" }
+    ],
+    "visual": {
+      "logoText": "AE&S",
+      "details": ["EST. 2010", "LAT: 22.8046° N", "LONG: 86.2029° E", "ZONE: IST +5:30", "CERT: ISO 9001:2015"]
+    }
+  },
+  "partners": {
+    "sectionLabel": "Trusted Collaborations",
+    "title": "OUR PARTNERS",
+    "logos": [
+      { "name": "JKET CHENNAI", "alt": "JKET Chennai logo" },
+      { "name": "NEW PIG INDIA", "alt": "New Pig India logo" },
+      { "name": "FLUID CONTROLS", "alt": "Fluid Controls logo" },
+      { "name": "BOYD INC.", "alt": "Boyd Inc. logo" },
+      { "name": "GM INDUSTRIES", "alt": "GM Industries logo" },
+      { "name": "STANLEY B&D", "alt": "Stanley Black & Decker logo" },
+      { "name": "WÜRTH", "alt": "Würth logo" }
+    ]
+  }
+}

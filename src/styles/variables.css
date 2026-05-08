@@ -1,0 +1,43 @@
+:root {
+  /* Background colors */
+  --bg-primary: #0d0d0d;
+  --bg-secondary: #141414;
+  --bg-tertiary: #1a1a1a;
+
+  /* Accent colors */
+  --steel-silver: #a8b4c0;
+  --steel-light: #c8d4e0;
+  --copper-bronze: #b87333;
+  --copper-light: #d4915a;
+  --blueprint-blue: #2a4d69;
+  --blueprint-cyan: #4b86b4;
+
+  /* Text colors */
+  --text-primary: #f5f5f5;
+  --text-secondary: #9ca3af;
+
+  /* Border and accents */
+  --border-color: #2d2d2d;
+  --grid-line: rgba(168, 180, 192, 0.08);
+  --accent-glow: rgba(184, 115, 51, 0.3);
+
+  /* Fonts */
+  --font-heading: 'Rajdhani', sans-serif;
+  --font-body: 'Chakra Petch', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Breakpoints (for reference) */
+  --bp-mobile: 768px;
+  --bp-tablet: 1024px;
+  --bp-desktop: 1400px;
+
+  /* Spacing */
+  --section-padding: 6rem;
+  --section-padding-mobile: 4rem;
+  --container-max-width: 1200px;
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+}

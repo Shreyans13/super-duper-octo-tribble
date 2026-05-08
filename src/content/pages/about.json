@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "About Us | Applied Engineering & Service",
+    "description": "Learn about our vision, mission, core values, and why we're the trusted partner for heavy industries across Eastern India."
+  },
+  "visionMission": {
+    "sectionLabel": "Our Direction",
+    "title": "VISION & MISSION",
+    "cards": [
+      {
+        "icon": "◈",
+        "title": "OUR VISION",
+        "content": "To be Eastern India's most trusted engineering partner, recognized for delivering innovative industrial solutions that drive operational excellence. We envision a future where every heavy industry in our region has access to world-class equipment and maintenance support, powered by our commitment to precision and reliability."
+      },
+      {
+        "icon": "◉",
+        "title": "OUR MISSION",
+        "content": "To provide exceptional hydraulic and engineering solutions that maximize uptime and productivity for our clients. Through continuous innovation, rigorous quality standards, and unwavering customer focus, we strive to reduce downtime, enhance safety, and deliver measurable value to every partnership we forge."
+      }
+    ]
+  },
+  "coreValues": {
+    "sectionLabel": "Our Principles",
+    "title": "CORE VALUES",
+    "values": [
+      {
+        "icon": "⚠",
+        "title": "SAFETY FIRST",
+        "description": "Uncompromising commitment to workplace safety and zero-incident operations across all projects."
+      },
+      {
+        "icon": "◆",
+        "title": "CUSTOMER FOCUS",
+        "description": "Every solution engineered around client needs with responsive 24/7 support infrastructure."
+      },
+      {
+        "icon": "⚙",
+        "title": "INNOVATION & QUALITY",
+        "description": "Continuous improvement mindset with rigorous quality control and modern equipment standards."
+      },
+      {
+        "icon": "◊",
+        "title": "INTEGRITY",
+        "description": "Transparent business practices with honest pricing and ethical partnerships at every level."
+      },
+      {
+        "icon": "★",
+        "title": "EXCELLENCE",
+        "description": "Pursuit of perfection in every weld, every calibration, and every client interaction."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "sectionLabel": "Competitive Edge",
+    "title": "WHY CHOOSE US",
+    "features": [
+      {
+        "number": "01",
+        "title": "STRATEGIC LOCATION",
+        "description": "Based in Jamshedpur, the steel capital of India, providing rapid deployment and localized support to major industrial hubs."
+      },
+      {
+        "number": "02",
+        "title": "PREMIUM EQUIPMENT",
+        "description": "Fleet of calibrated hydraulic jacks and pumps maintained to manufacturer specifications with full certification."
+      },
+      {
+        "number": "03",
+        "title": "EXPERT TECHNICIANS",
+        "description": "Factory-trained engineers with decades of combined experience in heavy machinery maintenance and repair."
+      },
+      {
+        "number": "04",
+        "title": "24/7 AVAILABILITY",
+        "description": "Emergency response teams ready to deploy critical equipment and personnel at any hour to minimize downtime."
+      },
+      {
+        "number": "05",
+        "title": "GLOBAL PARTNERSHIPS",
+        "description": "Direct relationships with international manufacturers ensuring authentic parts and warranty support."
+      },
+      {
+        "number": "06",
+        "title": "TURNKEY SOLUTIONS",
+        "description": "End-to-end project management from equipment supply through installation, commissioning, and ongoing maintenance."
+      }
+    ]
+  }
+}

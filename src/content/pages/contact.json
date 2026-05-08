@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Contact Us | Applied Engineering & Service",
+    "description": "Get in touch for equipment rental, product inquiries, maintenance services, or partnership opportunities."
+  },
+  "header": {
+    "sectionLabel": "Connect With Us",
+    "title": "GET IN TOUCH"
+  },
+  "info": {
+    "heading": "Contact Information",
+    "items": [
+      {
+        "icon": "◖",
+        "title": "ADDRESS",
+        "lines": ["Industrial Area, Adityapur", "Jamshedpur, Jharkhand 831013", "India"]
+      },
+      {
+        "icon": "✆",
+        "title": "PHONE",
+        "lines": ["+91 657 XXX XXXX", "+91 98765 43210"]
+      },
+      {
+        "icon": "✉",
+        "title": "EMAIL",
+        "lines": ["info@appliedengineering.in", "sales@appliedengineering.in"]
+      },
+      {
+        "icon": "◷",
+        "title": "WORKING HOURS",
+        "lines": ["Monday - Saturday: 08:00 - 18:00", "24/7 Emergency Support Available"]
+      }
+    ]
+  },
+  "form": {
+    "heading": "Send us a Message",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Name",
+        "type": "text",
+        "placeholder": "Your Name",
+        "required": true
+      },
+      {
+        "name": "company",
+        "label": "Company",
+        "type": "text",
+        "placeholder": "Company Name",
+        "required": false
+      },
+      {
+        "name": "email",
+        "label": "Email",
+        "type": "email",
+        "placeholder": "email@company.com",
+        "required": true
+      },
+      {
+        "name": "phone",
+        "label": "Phone",
+        "type": "tel",
+        "placeholder": "+91 XXXXX XXXXX",
+        "required": false
+      },
+      {
+        "name": "inquiryType",
+        "label": "Inquiry Type",
+        "type": "select",
+        "placeholder": "Select inquiry type",
+        "required": true,
+        "options": [
+          { "value": "", "label": "Select inquiry type" },
+          { "value": "rental", "label": "Equipment Rental" },
+          { "value": "purchase", "label": "Product Purchase" },
+          { "value": "maintenance", "label": "Maintenance Service" },
+          { "value": "support", "label": "Technical Support" },
+          { "value": "partnership", "label": "Partnership Opportunity" }
+        ]
+      },
+      {
+        "name": "message",
+        "label": "Message",
+        "type": "textarea",
+        "placeholder": "Describe your requirements...",
+        "required": false
+      }
+    ],
+    "submitButton": "SEND MESSAGE",
+    "successMessage": "Thank you for your inquiry. Our team will contact you shortly."
+  }
+}

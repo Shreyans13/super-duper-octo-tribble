@@ -1,0 +1,73 @@
+.card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  padding: 2rem;
+  position: relative;
+  transition: all var(--transition-normal);
+  text-align: center;
+  clip-path: polygon(0 0, calc(100% - 15px) 0, 100% 15px, 100% 100%, 15px 100%, 0 calc(100% - 15px));
+}
+
+.card:hover {
+  border-color: var(--copper-bronze);
+  transform: translateY(-5px);
+  box-shadow: 0 20px 40px rgba(184, 115, 51, 0.15);
+}
+
+.badge {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  padding: 0.35rem 0.75rem;
+  margin-bottom: 1.5rem;
+  border-radius: 2px;
+}
+
+.available {
+  background: rgba(74, 168, 74, 0.2);
+  color: #4aa84a;
+  border: 1px solid rgba(74, 168, 74, 0.3);
+}
+
+.bookNow {
+  background: rgba(184, 115, 51, 0.2);
+  color: var(--copper-bronze);
+  border: 1px solid rgba(184, 115, 51, 0.3);
+}
+
+.limited {
+  background: rgba(212, 175, 55, 0.2);
+  color: #d4af37;
+  border: 1px solid rgba(212, 175, 55, 0.3);
+}
+
+.tonnage {
+  font-family: var(--font-heading);
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: var(--copper-bronze);
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+
+.tonnage span {
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+}
+
+.label {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+}
+
+.description {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}

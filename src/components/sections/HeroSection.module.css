@@ -1,0 +1,161 @@
+.hero {
+  min-height: calc(100vh - 80px);
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  padding: 4rem 0;
+}
+
+.container {
+  max-width: var(--container-max-width);
+  margin: 0 auto;
+  padding: 0 2rem;
+  position: relative;
+  z-index: 10;
+}
+
+.content {
+  max-width: 800px;
+}
+
+.badge {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--copper-bronze);
+  letter-spacing: 2px;
+  margin-bottom: 1.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border-color);
+  background: rgba(184, 115, 51, 0.1);
+}
+
+.headline {
+  font-family: var(--font-heading);
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-weight: 700;
+  letter-spacing: 4px;
+  line-height: 1.1;
+  margin-bottom: 1.5rem;
+  color: var(--text-primary);
+}
+
+.highlight {
+  color: var(--copper-bronze);
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  max-width: 600px;
+  margin-bottom: 2.5rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.locationBadge {
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 2px;
+  color: var(--steel-silver);
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border-color);
+  background: var(--bg-secondary);
+  clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
+}
+
+.decorations {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.gear {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  border: 1px solid var(--border-color);
+  border-radius: 50%;
+  right: -100px;
+  top: 10%;
+  animation: rotate 60s linear infinite;
+}
+
+.gear::before {
+  content: '';
+  position: absolute;
+  inset: 20px;
+  border: 1px dashed var(--border-color);
+  border-radius: 50%;
+}
+
+.gearReverse {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border: 1px solid var(--border-color);
+  border-radius: 50%;
+  right: 50px;
+  bottom: 20%;
+  animation: rotate 45s linear infinite reverse;
+}
+
+.corner {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border: 2px solid var(--copper-bronze);
+}
+
+.cornerTopLeft {
+  top: 2rem;
+  left: 2rem;
+  border-right: none;
+  border-bottom: none;
+}
+
+.cornerBottomRight {
+  bottom: 2rem;
+  right: 2rem;
+  border-left: none;
+  border-top: none;
+}
+
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@media (max-width: 768px) {
+  .hero {
+    min-height: calc(100vh - 70px);
+    padding: 2rem 0;
+  }
+
+  .headline {
+    letter-spacing: 2px;
+  }
+
+  .locationBadge {
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin-top: 2rem;
+    display: inline-block;
+  }
+
+  .gear,
+  .gearReverse {
+    display: none;
+  }
+}

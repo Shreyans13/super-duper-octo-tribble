@@ -1,0 +1,21 @@
+.logo {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  padding: 1.5rem 2rem;
+  text-align: center;
+  transition: all var(--transition-normal);
+  clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 10px, 100% 100%, 10px 100%, 0 calc(100% - 10px));
+}
+
+.logo:hover {
+  border-color: var(--steel-silver);
+  background: var(--bg-secondary);
+}
+
+.name {
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: var(--steel-silver);
+}

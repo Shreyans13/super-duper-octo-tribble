@@ -1,0 +1,19 @@
+.label {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--copper-bronze);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border-color);
+  position: relative;
+}
+
+.label::before,
+.label::after {
+  content: '//';
+  margin: 0 0.5rem;
+  color: var(--steel-silver);
+}

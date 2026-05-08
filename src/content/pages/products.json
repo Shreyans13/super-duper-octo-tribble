@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Products & Services | Applied Engineering & Service",
+    "description": "Comprehensive industrial solutions including hydraulic equipment, industrial tools, fluid management, thermal solutions, and maintenance services."
+  },
+  "header": {
+    "sectionLabel": "Our Capabilities",
+    "title": "PRODUCTS & OFFERINGS",
+    "subtitle": "Specialized industrial solutions through partnerships with global leaders"
+  },
+  "categories": [
+    {
+      "id": "hydraulic",
+      "icon": "⚙",
+      "title": "HYDRAULIC SOLUTIONS",
+      "items": ["Hydraulic Jacks (10T - 1000T capacity)", "Hydraulic Pumps & Power Packs", "Torque Wrench Systems", "Hydraulic Bolt Tensioners", "Synchronous Lifting Systems"]
+    },
+    {
+      "id": "tools",
+      "icon": "🔧",
+      "title": "INDUSTRIAL TOOLS",
+      "items": ["Stanley Black & Decker Tools", "Würth Assembly Solutions", "Specialized Maintenance Equipment", "Pneumatic & Electric Tools", "Calibration & Testing Kits"]
+    },
+    {
+      "id": "fluid",
+      "icon": "🏭",
+      "title": "FLUID MANAGEMENT",
+      "items": ["New Pig Absorbents & Spill Control", "Fluid Controls Instrumentation", "Filtration & Purification Systems", "Oil Analysis Services", "Leak Detection Solutions"]
+    },
+    {
+      "id": "thermal",
+      "icon": "🔩",
+      "title": "THERMAL SOLUTIONS",
+      "items": ["Boyd Inc. Cooling Systems", "Heat Exchangers", "Thermal Interface Materials", "Liquid Cooling Solutions", "Temperature Management"]
+    },
+    {
+      "id": "maintenance",
+      "icon": "📋",
+      "title": "MAINTENANCE SERVICES",
+      "items": ["Preventive Maintenance Programs", "Emergency Repair Services", "Equipment Calibration", "Technical Training", "Asset Management Consulting"]
+    },
+    {
+      "id": "rental",
+      "icon": "🚛",
+      "title": "EQUIPMENT RENTAL",
+      "items": ["Short-term Project Rentals", "Long-term Lease Options", "Operator Training Included", "On-site Technical Support", "Transportation & Logistics"]
+    }
+  ],
+  "partners": {
+    "sectionLabel": "Brand Partnerships",
+    "title": "OUR BRAND PARTNERS",
+    "description": "We collaborate with leading international brands to bring you the best industrial solutions",
+    "list": [
+      {
+        "name": "JKET Chennai",
+        "description": "Specialty maintenance chemicals and industrial cleaning equipment, including heat exchanger cleaning services.",
+        "products": ["Maintenance Chemicals", "Cleaning Equipment", "Heat Exchanger Services"],
+        "website": "https://jket-chennai.com"
+      },
+      {
+        "name": "New Pig India",
+        "description": "Innovative solutions for industrial liquid management and spill cleanup, featuring the original PIG absorbent sock.",
+        "products": ["Absorbent Socks", "Spill Control Systems", "Liquid Management"],
+        "website": "https://newpig.com"
+      },
+      {
+        "name": "Fluid Controls",
+        "description": "Complete range of instrumentation hardware, including valves and fittings tailored for diverse industrial needs.",
+        "products": ["Industrial Valves", "Fittings", "Instrumentation Hardware"],
+        "website": "https://fluidcontrols.com"
+      },
+      {
+        "name": "Boyd Inc.",
+        "description": "Trusted material handling and hydraulic lifting equipment for industrial applications.",
+        "products": ["Ceaser Lifts", "Hydraulic Pumps", "Material Handling Equipment"],
+        "website": "https://boydcorp.com"
+      },
+      {
+        "name": "GM Industries",
+        "description": "High-quality induction heaters, pullers, and hydraulic jacks for various applications.",
+        "products": ["Induction Heaters", "Hydraulic Pullers", "Hydraulic Jacks"],
+        "website": "https://gmindustries.com"
+      },
+      {
+        "name": "Stanley Black & Decker",
+        "description": "A full range of hand tools, power tools, and storage solutions under brands like Stanley, Black+Decker, and DeWalt.",
+        "products": ["Hand Tools", "Power Tools", "Storage Solutions"],
+        "website": "https://stanleyblackanddecker.com"
+      },
+      {
+        "name": "Würth",
+        "description": "Premium quality fasteners, adhesives, sealants, tools, and workshop consumables widely used in automotive and industrial sectors.",
+        "products": ["Fasteners", "Adhesives & Sealants", "Workshop Consumables"],
+        "website": "https://wurth.com"
+      }
+    ]
+  }
+}
