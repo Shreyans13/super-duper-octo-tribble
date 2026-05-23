@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "Applied Engineering & Service",
+    "name": "Applied Engineering & Services",
     "shortName": "AE&S",
     "tagline": "Precision Engineering Solutions",
     "description": "Premier sales and service provider specializing in advanced cleaning services and maintenance products in collaboration with leading international brands.",
@@ -22,11 +22,12 @@
   "navigation": {
     "logo": {
       "text": "AE",
-      "fullText": "APPLIED ENGINEERING"
+      "fullText": "APPLIED ENGINEERING & SERVICES"
     },
     "links": [
       { "label": "Home", "path": "/" },
       { "label": "Products", "path": "/products" },
+      { "label": "Services", "path": "/services" },
       { "label": "Hydraulic Rentals", "path": "/rentals" },
       { "label": "About", "path": "/about" },
       { "label": "Contact", "path": "/contact" }
@@ -39,7 +40,7 @@
         "title": "NAVIGATION",
         "links": [
           { "label": "About Us", "path": "/about" },
-          { "label": "Products", "path": "/products" },
+          { "label": "Services", "path": "/services" },
           { "label": "Hydraulic Rentals", "path": "/rentals" },
           { "label": "Contact", "path": "/contact" }
         ]
@@ -48,8 +49,8 @@
         "title": "SERVICES",
         "links": [
           { "label": "Hydraulic Rentals", "path": "/rentals" },
-          { "label": "Equipment Sales", "path": "/products" },
-          { "label": "Maintenance", "path": "/products" },
+          { "label": "Equipment Sales", "path": "/services" },
+          { "label": "Maintenance", "path": "/services" },
           { "label": "Training", "path": "/contact" }
         ]
       },
@@ -62,7 +63,7 @@
         ]
       }
     ],
-    "copyright": "© 2024 Applied Engineering & Service. All rights reserved.",
+    "copyright": "© 2024 Applied Engineering & Services. All rights reserved.",
     "bottomTag": "JAMSHEDPUR // JHARKHAND // INDIA"
   },
   "theme": {
@@ -72,7 +73,7 @@
       "bgTertiary": "#1a1a1a",
       "steelSilver": "#a8b4c0",
       "steelLight": "#c8d4e0",
-      "copperBronze": "#b87333",
+      "copperBronze": "#e03028",
       "copperLight": "#d4915a",
       "blueprintBlue": "#2a4d69",
       "blueprintCyan": "#4b86b4",

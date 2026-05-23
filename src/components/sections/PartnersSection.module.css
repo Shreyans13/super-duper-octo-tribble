@@ -45,3 +45,106 @@
   max-width: 900px;
   margin: 0 auto;
 }
+
+/* Product Gallery Strip */
+.productsStrip {
+  margin-top: 4rem;
+  padding-top: 3rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.productsLabel {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.productsLabel::before,
+.productsLabel::after {
+  content: '//';
+  margin: 0 0.75rem;
+  color: var(--steel-silver);
+}
+
+.miniProductsGrid {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.miniProduct {
+  width: 100px;
+  opacity: 0;
+  animation: fadeInUp 0.5s ease-out forwards;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.miniProduct:hover {
+  transform: translateY(-5px);
+}
+
+.miniProductImageWrap {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  height: 80px;
+  overflow: hidden;
+  clip-path: polygon(0 0, calc(100% - 6px) 0, 100% 6px, 100% 100%, 6px 100%, 0 calc(100% - 6px));
+  transition: border-color var(--transition-normal);
+}
+
+.miniProduct:hover .miniProductImageWrap {
+  border-color: var(--copper-bronze);
+}
+
+.miniProductImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--transition-normal);
+}
+
+.miniProduct:hover .miniProductImage {
+  transform: scale(1.1);
+}
+
+.miniProductPlaceholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--bg-tertiary) 0%, var(--bg-secondary) 100%);
+  color: var(--steel-silver);
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 2px;
+}
+
+.miniProductCompany {
+  display: block;
+  margin-top: 0.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  color: var(--text-secondary);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

@@ -125,6 +125,7 @@ export interface HomeContent {
   hero: HeroSectionData;
   about: AboutSectionData;
   partners: PartnersSectionData;
+  clients: PartnersSectionData;
 }
 
 export interface ProductCategory {
@@ -142,6 +143,13 @@ export interface PartnerDetail {
   website?: string;
 }
 
+export interface ProductItem {
+  name: string;
+  image: string;
+  company: string;
+  description: string;
+}
+
 export interface ProductsContent {
   meta: PageMeta;
   header: {
@@ -150,6 +158,12 @@ export interface ProductsContent {
     subtitle: string;
   };
   categories: ProductCategory[];
+  productsCatalog: {
+    sectionLabel: string;
+    title: string;
+    description: string;
+    items: ProductItem[];
+  };
   partners: {
     sectionLabel: string;
     title: string;
@@ -220,8 +234,16 @@ export interface WhyChooseFeature {
   description: string;
 }
 
+export interface Owner {
+  name: string;
+  title: string;
+  image: string;
+  bio: string;
+}
+
 export interface AboutContent {
   meta: PageMeta;
+  about: AboutSectionData;
   visionMission: {
     sectionLabel: string;
     title: string;
@@ -231,6 +253,12 @@ export interface AboutContent {
     sectionLabel: string;
     title: string;
     values: CoreValue[];
+  };
+  owners: {
+    sectionLabel: string;
+    title: string;
+    description: string;
+    owners: Owner[];
   };
   whyChooseUs: {
     sectionLabel: string;

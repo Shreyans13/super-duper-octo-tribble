@@ -1,0 +1,13 @@
+/* Page Transition Wrapper */
+.pageTransition {
+  min-height: 100%;
+}
+
+/* Override scroll animations during page transitions */
+.pageTransition [class*="fade-in"],
+.pageTransition [class*="slide-in-left"],
+.pageTransition [class*="slide-in-right"] {
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
+}

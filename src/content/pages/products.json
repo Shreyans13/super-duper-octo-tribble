@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Products & Services | Applied Engineering & Service",
+    "title": "Products & Services | Applied Engineering & Services",
     "description": "Comprehensive industrial solutions including hydraulic equipment, industrial tools, fluid management, thermal solutions, and maintenance services."
   },
   "header": {
@@ -46,6 +46,307 @@
       "items": ["Short-term Project Rentals", "Long-term Lease Options", "Operator Training Included", "On-site Technical Support", "Transportation & Logistics"]
     }
   ],
+  "productsCatalog": {
+    "sectionLabel": "Product Catalog",
+    "title": "FEATURED PRODUCTS",
+    "description": "Browse our comprehensive range of industrial equipment and solutions",
+    "items": [
+      {
+        "name": "Single Acting Hydraulic Jack",
+        "image": "/products/boyd/boyd_01.png",
+        "company": "Boyd Inc.",
+        "description": "High-capacity single acting hydraulic jack designed for heavy lifting applications. Features precision machined cylinder walls and corrosion-resistant coating for extended durability in harsh industrial environments."
+      },
+      {
+        "name": "Double Acting Hydraulic Jack",
+        "image": "/products/boyd/boyd_02.png",
+        "company": "Boyd Inc.",
+        "description": "Versatile double acting hydraulic jack providing controlled lifting and lowering operations. Ideal for synchronous lifting systems and precision alignment tasks in steel plants and power generation facilities."
+      },
+      {
+        "name": "Hydraulic Torque Wrench",
+        "image": "/products/boyd/boyd_03.png",
+        "company": "Boyd Inc.",
+        "description": "Professional hydraulic torque wrench for precise bolt tightening in heavy industrial applications. Calibrated accuracy ensures consistent clamping force for critical machinery assembly."
+      },
+      {
+        "name": "Low Profile Hydraulic Cylinder",
+        "image": "/products/boyd/boyd_04.png",
+        "company": "Boyd Inc.",
+        "description": "Ultra-low profile hydraulic cylinder designed for confined space operations. Compact design delivers impressive force output for maintenance and repair in tight clearance areas."
+      },
+      {
+        "name": "High Pressure Hydraulic Pump",
+        "image": "/products/boyd/boyd_05.png",
+        "company": "Boyd Inc.",
+        "description": "Industrial-grade high pressure hydraulic pump with precision flow control. Designed for continuous operation in demanding environments with minimal maintenance requirements."
+      },
+      {
+        "name": "Hydraulic Hose Assembly",
+        "image": "/products/boyd/boyd_06.png",
+        "company": "Boyd Inc.",
+        "description": "Heavy-duty hydraulic hose assembly with reinforced steel braiding. Rated for high pressure applications with secure fittings to prevent leaks and ensure operator safety."
+      },
+      {
+        "name": "Portable Hydraulic Unit",
+        "image": "/products/boyd/boyd_07.png",
+        "company": "Boyd Inc.",
+        "description": "Compact portable hydraulic power unit for field service operations. Easy transport with quick-connect fittings for rapid deployment in emergency maintenance situations."
+      },
+      {
+        "name": "Hydraulic Lift Table",
+        "image": "/products/boyd/boyd_08.png",
+        "company": "Boyd Inc.",
+        "description": "Scissor-type hydraulic lift table for material handling and positioning. Stable platform design with safety locks for secure elevated work on heavy components."
+      },
+      {
+        "name": "Hydraulic Press Machine",
+        "image": "/products/boyd/boyd_09.png",
+        "company": "Boyd Inc.",
+        "description": "Industrial hydraulic press for pressing, bending and forming operations. Robust frame construction with precise pressure control for consistent results in metal fabrication."
+      },
+      {
+        "name": "Hydraulic Flow Meter",
+        "image": "/products/boyd/boyd_10.png",
+        "company": "Boyd Inc.",
+        "description": "Digital hydraulic flow meter for system diagnostics and maintenance. Accurate real-time measurement of flow rates to optimize hydraulic system performance."
+      },
+      {
+        "name": "Industrial Control Valve",
+        "image": "/products/fluid/fluid_01.png",
+        "company": "Fluid Controls",
+        "description": "Precision-engineered industrial control valve for hydraulic and pneumatic systems. Features leak-proof sealing and corrosion-resistant construction for reliable performance."
+      },
+      {
+        "name": "Instrumentation Fitting System",
+        "image": "/products/fluid/fluid_02.png",
+        "company": "Fluid Controls",
+        "description": "Complete instrumentation fitting system for industrial fluid management. High-pressure rated with superior sealing technology for critical process control applications."
+      },
+      {
+        "name": "Ball Valve Assembly",
+        "image": "/products/fluid/fluid_03.png",
+        "company": "Fluid Controls",
+        "description": "Stainless steel ball valve assembly for precise flow control in industrial piping systems. Quarter-turn operation with reliable shut-off capability for maintenance isolation."
+      },
+      {
+        "name": "Pressure Gauge Kit",
+        "image": "/products/fluid/fluid_04.png",
+        "company": "Fluid Controls",
+        "description": "Industrial pressure gauge kit with multiple dial sizes and connection types. Calibrated accuracy for monitoring hydraulic and pneumatic system pressures."
+      },
+      {
+        "name": "Tube Fitting Connector",
+        "image": "/products/fluid/fluid_05.png",
+        "company": "Fluid Controls",
+        "description": "Compression tube fitting connector for leak-free fluid connections. Double-ferrule design ensures secure grip on tubing without deformation or flow restriction."
+      },
+      {
+        "name": "Flow Control Valve",
+        "image": "/products/fluid/fluid_06.png",
+        "company": "Fluid Controls",
+        "description": "Adjustable flow control valve for regulating fluid velocity in hydraulic circuits. Fine-tuned adjustment mechanism enables precise flow rate management."
+      },
+      {
+        "name": "Heat Exchanger Cleaner",
+        "image": "/products/jk/jk_01.png",
+        "company": "JKET Chennai",
+        "description": "Specialty industrial cleaning solution for heat exchangers and process equipment. Effectively removes scale, deposits and contaminants to restore optimal thermal efficiency."
+      },
+      {
+        "name": "Heat Exchanger Maintenance Kit",
+        "image": "/products/jk/jk_02.png",
+        "company": "JKET Chennai",
+        "description": "Complete maintenance kit for industrial heat exchanger cleaning and servicing. Includes specialized tools and chemicals for preventive maintenance programs."
+      },
+      {
+        "name": "Descaling Compound",
+        "image": "/products/jk/jk_03.png",
+        "company": "JKET Chennai",
+        "description": "Powerful descaling compound for removing mineral deposits from cooling systems. Safe for use on stainless steel and copper components in heat transfer equipment."
+      },
+      {
+        "name": "Cooling Tower Treatment",
+        "image": "/products/jk/jk_04.png",
+        "company": "JKET Chennai",
+        "description": "Water treatment solution for industrial cooling tower systems. Prevents corrosion, scaling and biological growth to maintain efficient heat rejection performance."
+      },
+      {
+        "name": "Condenser Tube Brush",
+        "image": "/products/jk/jk_05.png",
+        "company": "JKET Chennai",
+        "description": "Rotary condenser tube brush for cleaning heat exchanger tubes. Flexible shaft navigates tube bends while abrasive bristles remove stubborn fouling deposits."
+      },
+      {
+        "name": "Chemical Circulation Pump",
+        "image": "/products/jk/jk_06.png",
+        "company": "JKET Chennai",
+        "description": "Chemical-resistant circulation pump for cleaning solution delivery. Compatible with acidic and alkaline cleaners used in industrial equipment maintenance."
+      },
+      {
+        "name": "Tube Inspection Camera",
+        "image": "/products/jk/jk_07.png",
+        "company": "JKET Chennai",
+        "description": "Borescope camera system for internal inspection of heat exchanger tubes. High-resolution imaging identifies blockages, pitting and corrosion without disassembly."
+      },
+      {
+        "name": "Gasket Removal Tool Set",
+        "image": "/products/jk/jk_08.png",
+        "company": "JKET Chennai",
+        "description": "Specialized tool set for safe removal of gasket material from flange surfaces. Non-scraping design protects sealing surfaces during maintenance turnaround."
+      },
+      {
+        "name": "Pressure Testing Kit",
+        "image": "/products/jk/jk_09.png",
+        "company": "JKET Chennai",
+        "description": "Hydrostatic pressure testing kit for verifying integrity of repaired equipment. Calibrated gauges and certified fittings ensure compliance with safety standards."
+      },
+      {
+        "name": "Corrosion Inhibitor",
+        "image": "/products/jk/jk_10.png",
+        "company": "JKET Chennai",
+        "description": "Film-forming corrosion inhibitor for protecting metal surfaces during cleaning. Prevents flash rusting and extends equipment life between maintenance cycles."
+      },
+      {
+        "name": "Spill Control Absorbent",
+        "image": "/products/new_pig/new_pig_01.png",
+        "company": "New Pig India",
+        "description": "High-capacity absorbent material for industrial spill containment and cleanup. Rapid absorption of oils, coolants and solvents for safe workplace maintenance."
+      },
+      {
+        "name": "Drum Containment System",
+        "image": "/products/new_pig/new_pig_02.png",
+        "company": "New Pig India",
+        "description": "Modular drum containment system for safe storage of industrial liquids. Secondary containment design prevents environmental contamination from accidental leaks."
+      },
+      {
+        "name": "Absorbent Sock Barrier",
+        "image": "/products/new_pig/new_pig_03.png",
+        "company": "New Pig India",
+        "description": "Flexible absorbent sock for containing and directing spills during cleanup. Moldable design conforms to floor contours for effective spill control around machinery."
+      },
+      {
+        "name": "Oil-Only Absorbent Pad",
+        "image": "/products/new_pig/new_pig_04.png",
+        "company": "New Pig India",
+        "description": "Selective absorbent pad that captures petroleum fluids while repelling water. Ideal for outdoor maintenance and wastewater treatment applications."
+      },
+      {
+        "name": "Drip Pan Collection Tray",
+        "image": "/products/new_pig/new_pig_05.png",
+        "company": "New Pig India",
+        "description": "Heavy-duty drip pan for collecting leaks from machinery and vehicles. Raised edges contain fluids while graduated markings enable volume tracking."
+      },
+      {
+        "name": "Spill Response Cart",
+        "image": "/products/new_pig/new_pig_06.png",
+        "company": "New Pig India",
+        "description": "Mobile spill response cart stocked with absorbents, PPE and disposal bags. Enables rapid deployment to spill sites for immediate containment action."
+      },
+      {
+        "name": "Drain Protection Cover",
+        "image": "/products/new_pig/new_pig_07.png",
+        "company": "New Pig India",
+        "description": "Magnetic drain cover seals floor drains during maintenance operations. Prevents spilled fluids from entering drainage systems and causing environmental issues."
+      },
+      {
+        "name": "Universal Absorbent Granules",
+        "image": "/products/new_pig/new_pig_08.png",
+        "company": "New Pig India",
+        "description": "Loose absorbent granules for covering large spills and absorbing pooled liquids. Lightweight formula spreads easily and encapsulates hazardous fluids for safe disposal."
+      },
+      {
+        "name": "Leak Diverter Tarp",
+        "image": "/products/new_pig/new_pig_09.png",
+        "company": "New Pig India",
+        "description": "Overhead leak diverter tarp channels roof and pipe leaks to collection containers. Protects equipment and flooring from water damage during facility maintenance."
+      },
+      {
+        "name": "Spill Kit Storage Cabinet",
+        "image": "/products/new_pig/new_pig_10.png",
+        "company": "New Pig India",
+        "description": "Weather-resistant cabinet for storing spill response supplies outdoors. Clear labeling and organized compartments enable quick access during emergencies."
+      },
+      {
+        "name": "Hazmat Disposal Bag",
+        "image": "/products/new_pig/new_pig_11.png",
+        "company": "New Pig India",
+        "description": "Heavy-duty disposal bag for contaminated absorbents and spill cleanup materials. Meets regulatory requirements for proper waste segregation and disposal."
+      },
+      {
+        "name": "Professional Impact Wrench",
+        "image": "/products/stanely/stanely_01.png",
+        "company": "Stanley Black & Decker",
+        "description": "Heavy-duty impact wrench for industrial maintenance and assembly operations. High torque output with ergonomic design for reduced operator fatigue during extended use."
+      },
+      {
+        "name": "Cordless Power Drill Kit",
+        "image": "/products/stanely/stanely_02.png",
+        "company": "Stanley Black & Decker",
+        "description": "Professional cordless drill kit with brushless motor technology. Extended battery life and variable speed control for versatile drilling and fastening applications."
+      },
+      {
+        "name": "Angle Grinder",
+        "image": "/products/stanely/stanely_03.png",
+        "company": "Stanley Black & Decker",
+        "description": "Industrial angle grinder for cutting, grinding and surface preparation. Adjustable guard and anti-vibration handle enhance safety and operator comfort."
+      },
+      {
+        "name": "Rotary Hammer Drill",
+        "image": "/products/stanely/stanely_04.png",
+        "company": "Stanley Black & Decker",
+        "description": "SDS rotary hammer drill for concrete and masonry drilling. Three-mode operation includes rotation-only for wood and metal drilling applications."
+      },
+      {
+        "name": "Circular Saw",
+        "image": "/products/stanely/stanely_05.png",
+        "company": "Stanley Black & Decker",
+        "description": "Professional circular saw for precise cutting of lumber and sheet materials. Laser guide and dust blower ensure accurate cuts in construction applications."
+      },
+      {
+        "name": "Jigsaw Tool",
+        "image": "/products/stanely/stanely_06.png",
+        "company": "Stanley Black & Decker",
+        "description": "Variable speed jigsaw for curved and intricate cutting operations. Tool-free blade change and orbital action settings adapt to different material thicknesses."
+      },
+      {
+        "name": "Premium Industrial Fastener Set",
+        "image": "/products/wurth/wurth_01.png",
+        "company": "Würth",
+        "description": "High-strength industrial fastener set including bolts, nuts and washers. Corrosion-resistant coating ensures long-term reliability in harsh industrial environments."
+      },
+      {
+        "name": "Threadlocker Compound",
+        "image": "/products/wurth/wurth_02.png",
+        "company": "Würth",
+        "description": "Medium-strength threadlocker for preventing fastener loosening from vibration. Removable with hand tools for maintenance while securing joints during operation."
+      },
+      {
+        "name": "Assembly Lubricant",
+        "image": "/products/wurth/wurth_03.png",
+        "company": "Würth",
+        "description": "Anti-seize assembly lubricant for threaded connections and press fits. Prevents galling and corrosion to enable future disassembly of critical joints."
+      },
+      {
+        "name": "Structural Adhesive",
+        "image": "/products/wurth/wurth_04.png",
+        "company": "Würth",
+        "description": "High-strength structural adhesive for bonding metal components. Two-part epoxy formulation provides exceptional shear strength and chemical resistance."
+      },
+      {
+        "name": "Chemical Anchor System",
+        "image": "/products/wurth/wurth_05.png",
+        "company": "Würth",
+        "description": "Chemical anchoring system for securing bolts in concrete and masonry. Injectable resin bonds studs into drilled holes for maximum load capacity."
+      },
+      {
+        "name": "Torque Seal Marker",
+        "image": "/products/wurth/wurth_06.png",
+        "company": "Würth",
+        "description": "Breakaway torque seal marker for indicating fastener tampering or loosening. Bright color provides visual indication of bolt movement for safety inspections."
+      }
+    ]
+  },
   "partners": {
     "sectionLabel": "Brand Partnerships",
     "title": "OUR BRAND PARTNERS",

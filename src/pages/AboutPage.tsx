@@ -1,21 +1,17 @@
 import React from 'react';
-import { VisionMissionSection, CoreValuesSection, WhyChooseSection } from '../components/sections';
-import { SectionLabel } from '../components/ui';
+import { AboutFoundersSection, VisionMissionSection, CoreValuesSection, WhyChooseSection } from '../components/sections';
 import aboutData from '../content/pages/about.json';
 import type { AboutContent } from '../types/content';
-import styles from './Pages.module.css';
 
 const AboutPage: React.FC = () => {
   const data = aboutData as AboutContent;
 
   return (
     <>
-      <section className={styles.pageHeader}>
-        <div className={styles.container}>
-          <SectionLabel>{data.visionMission.sectionLabel}</SectionLabel>
-          <h1 className={styles.pageTitle}>About Us</h1>
-        </div>
-      </section>
+      <AboutFoundersSection
+        aboutData={data.about}
+        owners={data.owners.owners}
+      />
 
       <VisionMissionSection
         sectionLabel={data.visionMission.sectionLabel}

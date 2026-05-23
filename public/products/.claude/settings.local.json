@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl *)",
+      "Bash(mkdir -p new_pig boyd fluid stanely wurth image)",
+      "Bash(mv new_pig_*.png new_pig/)",
+      "Bash(mv boyd_*.png boyd/)",
+      "Bash(mv fluid_*.png fluid/)",
+      "Bash(mv stanely_*.png stanely/)"
+    ]
+  }
+}

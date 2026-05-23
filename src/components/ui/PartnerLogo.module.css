@@ -5,11 +5,27 @@
   text-align: center;
   transition: all var(--transition-normal);
   clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 10px, 100% 100%, 10px 100%, 0 calc(100% - 10px));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80px;
 }
 
 .logo:hover {
   border-color: var(--steel-silver);
   background: var(--bg-secondary);
+}
+
+.image {
+  max-width: 100%;
+  max-height: 60px;
+  object-fit: contain;
+  filter: grayscale(100%) brightness(1.2);
+  transition: filter var(--transition-normal);
+}
+
+.logo:hover .image {
+  filter: grayscale(0%) brightness(1);
 }
 
 .name {

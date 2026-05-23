@@ -22,22 +22,18 @@
 .logo {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
   text-decoration: none;
 }
 
-.logoIcon {
-  width: 40px;
-  height: 40px;
-  background: var(--copper-bronze);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-heading);
-  font-weight: 700;
-  font-size: 1.25rem;
-  color: var(--bg-primary);
-  clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
+.logoImage {
+  height: 50px;
+  width: auto;
+  object-fit: contain;
+  transition: transform var(--transition-fast);
+}
+
+.logo:hover .logoImage {
+  transform: scale(1.05);
 }
 
 .logoText {

@@ -7,3 +7,5 @@ export { CapacityCard } from './CapacityCard';
 export { ValueCard } from './ValueCard';
 export { PartnerLogo } from './PartnerLogo';
 export { SpecsTable } from './SpecsTable';
+export { ProductItemCard } from './ProductItemCard';
+export { ProductScrollGallery } from './ProductScrollGallery';

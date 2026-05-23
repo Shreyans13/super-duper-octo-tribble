@@ -13,7 +13,11 @@ export const Navigation: React.FC = () => {
       <nav className={styles.navbar}>
         <div className={styles.container}>
           <NavLink to="/" className={styles.logo}>
-            <div className={styles.logoIcon}>{navigation.logo.text}</div>
+            <img
+              src="/logo/applied_logo_transparent.png"
+              alt="Applied Engineering & Services"
+              className={styles.logoImage}
+            />
             <span className={styles.logoText}>{navigation.logo.fullText}</span>
           </NavLink>
 

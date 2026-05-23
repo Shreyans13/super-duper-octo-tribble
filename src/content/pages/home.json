@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Applied Engineering & Service | Industrial Precision Solutions | Jamshedpur",
+    "title": "Applied Engineering & Services | Industrial Precision Solutions | Jamshedpur",
     "description": "Delivering world-class hydraulic equipment and engineering services to India's heavy industry sector with uncompromising quality and reliability."
   },
   "hero": {
@@ -9,7 +9,7 @@
     "subtitle": "Delivering world-class hydraulic equipment and engineering services to India's heavy industry sector with uncompromising quality and reliability.",
     "locationBadge": "JAMSHEDPUR, JHARKHAND — INDIA'S STEEL CITY",
     "buttons": [
-      { "label": "Explore Products", "path": "/products", "variant": "primary" },
+      { "label": "Explore Products", "path": "/services", "variant": "primary" },
       { "label": "Get in Touch", "path": "/contact", "variant": "secondary" }
     ],
     "decor": {
@@ -22,7 +22,7 @@
     "sectionLabel": "About Us",
     "title": ["ENGINEERING EXCELLENCE", "FROM THE HEART OF INDIA"],
     "paragraphs": [
-      "Founded in Jamshedpur, the cradle of India's industrial revolution, Applied Engineering & Service has emerged as a trusted partner for heavy industries across Eastern India. Our strategic location in the steel city positions us at the epicenter of manufacturing excellence.",
+      "Founded in Jamshedpur, the cradle of India's industrial revolution, Applied Engineering & Services has emerged as a trusted partner for heavy industries across Eastern India. Our strategic location in the steel city positions us at the epicenter of manufacturing excellence.",
       "We specialize in providing precision hydraulic equipment, industrial maintenance solutions, and turnkey engineering services to steel plants, power generation facilities, and heavy manufacturing units."
     ],
     "stats": [
@@ -40,13 +40,29 @@
     "sectionLabel": "Trusted Collaborations",
     "title": "OUR PARTNERS",
     "logos": [
-      { "name": "JKET CHENNAI", "alt": "JKET Chennai logo" },
-      { "name": "NEW PIG INDIA", "alt": "New Pig India logo" },
-      { "name": "FLUID CONTROLS", "alt": "Fluid Controls logo" },
-      { "name": "BOYD INC.", "alt": "Boyd Inc. logo" },
-      { "name": "GM INDUSTRIES", "alt": "GM Industries logo" },
-      { "name": "STANLEY B&D", "alt": "Stanley Black & Decker logo" },
-      { "name": "WÜRTH", "alt": "Würth logo" }
+      { "name": "JKET CHENNAI", "image": "/images/partners/jket-chennai.png", "alt": "JKET Chennai logo" },
+      { "name": "NEW PIG INDIA", "image": "/images/partners/new-pig.png", "alt": "New Pig India logo" },
+      { "name": "FLUID CONTROLS", "image": "/images/partners/fluid-controls.png", "alt": "Fluid Controls logo" },
+      { "name": "BOYD INC.", "image": "/images/partners/boyd.png", "alt": "Boyd Inc. logo" },
+      { "name": "GM INDUSTRIES", "image": "/images/partners/gm-industries.png", "alt": "GM Industries logo" },
+      { "name": "STANLEY B&D", "image": "/images/partners/stanley.png", "alt": "Stanley Black & Decker logo" },
+      { "name": "WÜRTH", "image": "/images/partners/wurth.png", "alt": "Würth logo" }
+    ]
+  },
+  "clients": {
+    "sectionLabel": "Industry Leaders We Serve",
+    "title": "BUSINESS CLIENTS",
+    "logos": [
+      { "name": "TATA STEEL", "image": "/tatasteel.png", "alt": "Tata Steel logo" },
+      { "name": "SAIL", "image": "/sail.png", "alt": "Steel Authority of India Limited logo" },
+      { "name": "JINDAL", "image": "/jindal.png", "alt": "Jindal Steel logo" },
+      { "name": "ADANI", "image": "/adani.png", "alt": "Adani Group logo" },
+      { "name": "HINDALCO", "image": "/hindalco.jpeg", "alt": "Hindalco Industries logo" },
+      { "name": "RML", "image": "/rml.jpeg", "alt": "Rungta Mines Limited logo" },
+      { "name": "NINL", "image": "/ninl.jpg", "alt": "Neelachal Ispat Nigam Limited logo" },
+      { "name": "ISWP", "image": "/iswp.png", "alt": "ISWP logo" },
+      { "name": "DLNF", "image": "/dlnf.png", "alt": "DLNF logo" },
+      { "name": "TBSC", "image": "/tbsc.png", "alt": "Tata BlueScope Steel logo" }
     ]
   }
 }
