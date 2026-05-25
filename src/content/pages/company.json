@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "title": "Company Profile | Company A Industries",
+    "description": "Discover Company A Industries — a leading engineering and manufacturing firm delivering construction equipment, power tools, and industrial solutions across India and beyond."
+  },
+  "header": {
+    "sectionLabel": "COMPANY PROFILE",
+    "title": "Company A Industries Pvt. Ltd.",
+    "subtitle": "Engineering excellence from Pune to the world"
+  },
+  "overview": {
+    "heading": "About Company A",
+    "paragraphs": [
+      "Established in 2005, Company A Industries has grown from a regional supplier to a nationwide leader in construction equipment and industrial tooling. Based in Pune, Maharashtra — one of India's fastest-growing industrial corridors — we design, manufacture, and distribute equipment that powers infrastructure projects across the subcontinent.",
+      "Our product portfolio spans five core categories: heavy construction machinery, material handling systems, professional power tools, industrial safety equipment, and precision surveying instruments. Each product is engineered to withstand the rigors of Indian job sites, from coastal humidity to desert heat.",
+      "With ISO 9001:2015 and CE certifications, Company A Industries serves government contractors, private builders, mining operations, and manufacturing plants. Our 24/7 service network and dedicated training academy ensure customers maximize uptime and safety on every project."
+    ]
+  },
+  "stats": [
+    { "value": "18+", "label": "Years of Innovation" },
+    { "value": "300+", "label": "Projects Completed" },
+    { "value": "25+", "label": "Countries Served" },
+    { "value": "ISO 9001", "label": "Certified Quality" }
+  ],
+  "products": {
+    "sectionLabel": "OUR PRODUCTS",
+    "title": "Our Products",
+    "subtitle": "Comprehensive industrial equipment catalog organized by category",
+    "groups": [
+      {
+        "category": "Construction Equipment",
+        "icon": "🏗",
+        "items": [
+          { "name": "Heavy-Duty Excavator X5000", "description": "50-ton crawler excavator with reinforced boom and arm for mining and large-scale earthmoving operations.", "tags": ["Heavy Duty", "Mining Grade"] },
+          { "name": "All-Terrain Bulldozer Pro", "description": "Track-type bulldozer with adjustable blade pitch for grading, dozing, and ripping across uneven terrain.", "tags": ["All Terrain", "Adjustable Blade"] },
+          { "name": "Tower Crane TC-200", "description": "200-meter lifting height tower crane with frequency-controlled hoisting for high-rise construction projects.", "tags": ["High Reach", "Frequency Control"] },
+          { "name": "Wheel Loader WL-800", "description": "8-ton payload wheel loader with quick-coupler system compatible with forks, buckets, and grapples.", "tags": ["Quick Coupler", "Multi-Attachment"] },
+          { "name": "Concrete Batching Plant CBP-120", "description": "120 cubic meter per hour fully automatic concrete batching plant with twin-shaft mixer and PLC control.", "tags": ["Automatic", "PLC Control"] }
+        ]
+      },
+      {
+        "category": "Material Handling",
+        "icon": "📦",
+        "items": [
+          { "name": "Electric Forklift EF-3000", "description": "3-ton capacity electric forklift with lithium-ion battery and regenerative braking for warehouse operations.", "tags": ["Electric", "Li-Ion Battery"] },
+          { "name": "Belt Conveyor System BC-100", "description": "100-meter modular belt conveyor with variable speed drive for aggregate and bulk material transport.", "tags": ["Modular", "Variable Speed"] },
+          { "name": "Hydraulic Pallet Truck HPT-2500", "description": "2.5-ton manual hydraulic pallet truck with polyurethane wheels and ergonomic pump handle.", "tags": ["Manual", "Ergonomic"] },
+          { "name": "Chain Hoist CH-500", "description": "5-ton electric chain hoist with dual-speed motor and overload protection for factory lifting.", "tags": ["Dual Speed", "Overload Safe"] },
+          { "name": "Scissor Lift SL-1200", "description": "12-meter working height diesel scissor lift with rough-terrain tires and extending deck platform.", "tags": ["Rough Terrain", "Extending Deck"] }
+        ]
+      },
+      {
+        "category": "Power Tools",
+        "icon": "⚡",
+        "items": [
+          { "name": "Cordless Impact Drill CID-800", "description": "20V brushless cordless impact drill with 800Nm torque and LED work light for professional fastening.", "tags": ["Brushless", "High Torque"] },
+          { "name": "Angle Grinder Professional AGP-150", "description": "150mm disc angle grinder with paddle switch and anti-vibration side handle for metal fabrication.", "tags": ["Paddle Switch", "Anti-Vibration"] },
+          { "name": "Circular Saw Heavy Duty CSH-235", "description": "235mm blade circular saw with magnesium base and laser guide for precise timber and panel cutting.", "tags": ["Magnesium Base", "Laser Guide"] },
+          { "name": "Arc Welding Machine AW-400", "description": "400-amp inverter arc welder with IGBT technology and hot start function for MMA and TIG welding.", "tags": ["IGBT", "Hot Start"] },
+          { "name": "Air Compressor AC-200", "description": "200-liter tank reciprocating air compressor with oil-lubricated pump for pneumatic tool operation.", "tags": ["200L Tank", "Oil-Lubricated"] }
+        ]
+      },
+      {
+        "category": "Safety Equipment",
+        "icon": "🛡",
+        "items": [
+          { "name": "Industrial Safety Helmet ISH-Pro", "description": "HDPE shell safety helmet with six-point suspension, ratchet adjustment, and chin strap for construction sites.", "tags": ["HDPE Shell", "Six-Point"] },
+          { "name": "Full Body Safety Harness FBH-500", "description": "Class A full-body harness with dorsal D-ring and shock-absorbing lanyard for fall arrest systems.", "tags": ["Fall Arrest", "Shock Absorbing"] },
+          { "name": "Cut-Resistant Work Gloves CRG-Level5", "description": "Level 5 cut-resistant gloves with nitrile-coated palm and seamless knit liner for metal handling.", "tags": ["Level 5 Cut", "Nitrile Coated"] },
+          { "name": "Steel-Toe Safety Boots STB-800", "description": "S3-rated steel-toe safety boots with puncture-resistant midsole and waterproof leather upper.", "tags": ["S3 Rated", "Puncture Resistant"] },
+          { "name": "High-Visibility Safety Vest HVV-Class2", "description": "Class 2 reflective safety vest with breathable mesh fabric and zippered pockets for road workers.", "tags": ["Class 2", "Reflective"] }
+        ]
+      },
+      {
+        "category": "Survey Instruments",
+        "icon": "📐",
+        "items": [
+          { "name": "Digital Theodolite TD-500", "description": "5-second accuracy digital theodolite with laser plummet and dual-axis compensator for angle measurement.", "tags": ["5-Second", "Laser Plummet"] },
+          { "name": "RTK GPS Survey System RTK-G1", "description": "Multi-constellation GNSS RTK receiver with centimeter-level accuracy and tilt compensation for surveying.", "tags": ["Centimeter Level", "Tilt Compensated"] },
+          { "name": "Auto Level AL-200", "description": "28x magnification auto level with magnetic dampened compensator and stadia lines for leveling work.", "tags": ["28x Zoom", "Magnetic Damped"] },
+          { "name": "Total Station TS-1000", "description": "1-second accuracy total station with reflectorless EDM and onboard field software for mapping and layout.", "tags": ["1-Second", "Reflectorless"] },
+          { "name": "Surveying Drone SD-400", "description": "Quadrotor mapping drone with RTK positioning and 20MP camera for aerial photogrammetry and topography.", "tags": ["RTK Positioning", "20MP Camera"] }
+        ]
+      }
+    ]
+  }
+}

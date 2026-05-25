@@ -28,7 +28,13 @@
       { "label": "Home", "path": "/" },
       { "label": "Products", "path": "/products" },
       { "label": "Services", "path": "/services" },
-      { "label": "Hydraulic Rentals", "path": "/rentals" },
+      {
+        "label": "Company",
+        "path": "#",
+        "children": [
+          { "label": "Company A", "path": "/company/ABC" }
+        ]
+      },
       { "label": "About", "path": "/about" },
       { "label": "Contact", "path": "/contact" }
     ]
@@ -41,14 +47,14 @@
         "links": [
           { "label": "About Us", "path": "/about" },
           { "label": "Services", "path": "/services" },
-          { "label": "Hydraulic Rentals", "path": "/rentals" },
+          { "label": "Company Profile", "path": "/company/ABC" },
           { "label": "Contact", "path": "/contact" }
         ]
       },
       {
         "title": "SERVICES",
         "links": [
-          { "label": "Hydraulic Rentals", "path": "/rentals" },
+          { "label": "Company Profile", "path": "/company/ABC" },
           { "label": "Equipment Sales", "path": "/services" },
           { "label": "Maintenance", "path": "/services" },
           { "label": "Training", "path": "/contact" }

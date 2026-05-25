@@ -27,15 +27,18 @@ export interface CompanyInfo {
   };
 }
 
+export interface NavigationLink {
+  label: string;
+  path: string;
+  children?: NavigationLink[];
+}
+
 export interface NavigationConfig {
   logo: {
     text: string;
     fullText: string;
   };
-  links: Array<{
-    label: string;
-    path: string;
-  }>;
+  links: NavigationLink[];
 }
 
 export interface FooterConfig {
@@ -297,6 +300,41 @@ export interface ContactContent {
     fields: FormField[];
     submitButton: string;
     successMessage: string;
+  };
+}
+
+export interface ProductGridItem {
+  name: string;
+  description: string;
+  tags: string[];
+}
+
+export interface ProductGroup {
+  category: string;
+  icon: string;
+  items: ProductGridItem[];
+}
+
+export interface CompanyProfileContent {
+  meta: PageMeta;
+  header: {
+    sectionLabel: string;
+    title: string;
+    subtitle: string;
+  };
+  overview: {
+    heading: string;
+    paragraphs: string[];
+  };
+  stats: Array<{
+    value: string;
+    label: string;
+  }>;
+  products: {
+    sectionLabel: string;
+    title: string;
+    subtitle: string;
+    groups: ProductGroup[];
   };
 }
 

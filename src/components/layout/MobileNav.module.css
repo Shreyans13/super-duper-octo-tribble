@@ -61,6 +61,55 @@
   color: var(--copper-bronze);
 }
 
+.accordionTrigger {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1.5rem 0;
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--text-primary);
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: color var(--transition-fast);
+}
+
+.accordionTrigger:hover,
+.accordionTrigger.active {
+  color: var(--copper-bronze);
+}
+
+.chevron {
+  font-size: 0.8rem;
+  transition: transform var(--transition-fast);
+}
+
+.chevron.expanded {
+  transform: rotate(180deg);
+}
+
+.subMenu {
+  list-style: none;
+  padding: 0 0 0 1.5rem;
+  margin: 0;
+}
+
+.subMenu li {
+  border-bottom: none;
+  border-top: 1px solid var(--border-color);
+}
+
+.subMenu a {
+  padding: 1rem 0;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+
 @media (min-width: 769px) {
   .overlay,
   .menu {

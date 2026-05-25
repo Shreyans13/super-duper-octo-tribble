@@ -54,10 +54,6 @@ const FloatingProduct: React.FC<{ product: ProductItem; index: number }> = ({ pr
 };
 
 export const HeroSection: React.FC<HeroSectionProps> = ({ data, products }) => {
-  const renderHeadline = (text: string) => {
-    return text.replace(/\{highlight\}(.*?)\{\/highlight\}/g, '<span class="$highlight">$1</span>');
-  };
-
   return (
     <section className={styles.hero}>
       <div className={styles.container}>

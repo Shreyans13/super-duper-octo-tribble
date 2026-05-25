@@ -9,3 +9,4 @@ export { PartnerLogo } from './PartnerLogo';
 export { SpecsTable } from './SpecsTable';
 export { ProductItemCard } from './ProductItemCard';
 export { ProductScrollGallery } from './ProductScrollGallery';
+export { ProductGridCard } from './ProductGridCard';
