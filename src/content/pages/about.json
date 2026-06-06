@@ -1,13 +1,13 @@
 {
   "meta": {
-    "title": "About Us | Applied Engineering & Services",
+    "title": "About Us | Applied Engineering & Service",
     "description": "Learn about our vision, mission, core values, and why we're the trusted partner for heavy industries across Eastern India."
   },
   "about": {
     "sectionLabel": "Who We Are",
     "title": ["ABOUT US", "& OUR FOUNDERS"],
     "paragraphs": [
-      "Founded in 2010, Applied Engineering & Services has grown to become Eastern India's premier provider of hydraulic solutions and engineering services. Based in Jamshedpur, the steel capital of India, we serve the heavy industrial sector with precision equipment and expert technical support.",
+      "Founded in 2010, Applied Engineering & Service has grown to become Eastern India's premier provider of hydraulic solutions and engineering services. Based in Jamshedpur, the steel capital of India, we serve the heavy industrial sector with precision equipment and expert technical support.",
       "Our journey began with a simple mission: to bridge the gap between global hydraulic technology and local industrial needs. Today, we proudly partner with leading steel plants, power stations, and manufacturing facilities across the region, providing them with world-class equipment and 24/7 service support."
     ],
     "stats": [
@@ -76,13 +76,13 @@
   "owners": {
     "sectionLabel": "Leadership",
     "title": "OUR FOUNDERS",
-    "description": "Meet the visionary leaders behind Applied Engineering & Services",
+    "description": "Meet the visionary leaders behind Applied Engineering & Service",
     "owners": [
       {
         "name": "Harsh Jain",
         "title": "Managing Director & CEO",
         "image": "/owner/harsh.jpeg",
-        "bio": "With over 25 years of experience in industrial engineering, Harsh founded Applied Engineering & Services in 2010 with a vision to bring world-class hydraulic solutions to Eastern India. His expertise in heavy machinery and commitment to quality has established the company as a trusted partner for major industrial players across the region."
+        "bio": "With over 25 years of experience in industrial engineering, Harsh founded Applied Engineering & Service in 2010 with a vision to bring world-class hydraulic solutions to Eastern India. His expertise in heavy machinery and commitment to quality has established the company as a trusted partner for major industrial players across the region."
       },
       {
         "name": "Hemant Prakash",

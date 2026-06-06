@@ -50,7 +50,7 @@ export const Navigation: React.FC = () => {
           <NavLink to="/" className={styles.logo}>
             <img
               src="/logo/applied_logo_transparent.png"
-              alt="Applied Engineering & Services"
+              alt="Applied Engineering & Service"
               className={styles.logoImage}
             />
             <span className={styles.logoText}>{navigation.logo.fullText}</span>

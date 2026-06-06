@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "Applied Engineering & Services",
+    "name": "Applied Engineering & Service",
     "shortName": "AE&S",
     "tagline": "Precision Engineering Solutions",
     "description": "Premier sales and service provider specializing in advanced cleaning services and maintenance products in collaboration with leading international brands.",
@@ -22,7 +22,7 @@
   "navigation": {
     "logo": {
       "text": "AE",
-      "fullText": "APPLIED ENGINEERING & SERVICES"
+      "fullText": "Applied Engineering & Service"
     },
     "links": [
       { "label": "Home", "path": "/" },
@@ -69,7 +69,7 @@
         ]
       }
     ],
-    "copyright": "© 2024 Applied Engineering & Services. All rights reserved.",
+    "copyright": "© 2024 Applied Engineering & Service. All rights reserved.",
     "bottomTag": "JAMSHEDPUR // JHARKHAND // INDIA"
   },
   "theme": {

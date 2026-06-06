@@ -82,7 +82,7 @@ export const AboutFoundersSection: React.FC<AboutFoundersSectionProps> = ({
           <div className={styles.logoSection}>
             <img
               src="/logo/applied_logo_transparent.png"
-              alt="Applied Engineering & Services"
+              alt="Applied Engineering & Service"
               className={styles.logoImage}
             />
             <ul className={styles.details}>

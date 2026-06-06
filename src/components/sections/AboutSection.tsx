@@ -117,7 +117,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ data, products, owne
             <div className={styles.visualOverlay}>
               <img
                 src="/logo/applied_logo_transparent.png"
-                alt="Applied Engineering & Services"
+                alt="Applied Engineering & Service"
                 className={styles.logoImage}
               />
               <ul className={styles.details}>

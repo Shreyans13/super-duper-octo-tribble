@@ -1,7 +1,7 @@
 # Company Profile Page — Design Document
 
 ## Goal
-Replace the `/rentals` page with a dedicated Company Profile page at `/company` that showcases Applied Engineering & Services with an overview, key stats, and product categories.
+Replace the `/rentals` page with a dedicated Company Profile page at `/company` that showcases Applied Engineering & Service with an overview, key stats, and product categories.
 
 ## Route & Navigation Changes
 
@@ -15,7 +15,7 @@ Replace the `/rentals` page with a dedicated Company Profile page at `/company` 
 
 ### 1. Page Header (Overview)
 - **SectionLabel**: "COMPANY PROFILE"
-- **Title**: "Applied Engineering & Services"
+- **Title**: "Applied Engineering & Service"
 - **Subtitle**: Company tagline / brief positioning statement
 - **Intro section**: 2-3 paragraphs describing the company (dummy data)
 - **Styling**: Reuses `Pages.module.css` `.pageHeader` and `.introSection` patterns
