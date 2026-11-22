@@ -17,18 +17,24 @@ const ProductCard: React.FC<{ product: Product; index: number }> = ({ product, i
   return (
     <div
       className={`${styles.productCard} ${isHovered ? styles.hovered : ''}`}
-      style={{ '--delay': `${index * 80}ms` } as React.CSSProperties}
+      style={{ '--delay': `${Math.min(index, 10) * 80}ms` } as React.CSSProperties}
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
       <div className={styles.cardInner}>
         <div className={styles.imageWrapper}>
-          <img
-            src={product.image}
-            alt={product.name}
-            className={styles.productImage}
-            loading="lazy"
-          />
+          {product.image ? (
+            <img
+              src={product.image}
+              alt={product.name}
+              className={styles.productImage}
+              loading="lazy"
+            />
+          ) : (
+            <div className={styles.placeholder}>
+              <span>{product.name.substring(0, 2).toUpperCase()}</span>
+            </div>
+          )}
           <div className={styles.imageOverlay} />
         </div>
         <div className={styles.productInfo}>

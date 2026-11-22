@@ -1,5 +1,5 @@
 .pageHeader {
-  padding: calc(var(--section-padding) + 80px) 0 3rem;
+  padding: 3rem 0;
   text-align: center;
   background: var(--bg-secondary);
 }
@@ -32,8 +32,65 @@
   background: var(--bg-primary);
   border-bottom: 1px solid var(--border-color);
   position: sticky;
-  top: 70px;
+  top: 80px;
   z-index: 10;
+  transition: padding var(--transition-fast);
+}
+
+.stickySentinel {
+  height: 1px;
+}
+
+/* Compact sticky bar: search and filters on one row, results summary on the next */
+.compact {
+  padding: 0.75rem 0;
+}
+
+.compact .filterBar {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.compact .searchContainer {
+  flex: 0 1 340px;
+  margin: 0;
+}
+
+.compact .searchInput {
+  padding: 0.6rem 2.5rem 0.6rem 1rem;
+  font-size: 0.9rem;
+}
+
+.compact .filterContainer {
+  flex: 1;
+  min-width: 0;
+  flex-direction: row;
+}
+
+.compact .filterLabel {
+  display: none;
+}
+
+.compact .filterButtons {
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  overflow-x: auto;
+  gap: 0.5rem;
+}
+
+.compact .filterButton {
+  white-space: nowrap;
+}
+
+.compact .activeFilters {
+  justify-content: flex-start;
+  margin-top: 0.6rem;
+  padding-top: 0.6rem;
+}
+
+.compact .resultsCount {
+  white-space: nowrap;
 }
 
 .searchContainer {
@@ -217,7 +274,7 @@
 
 @media (max-width: 768px) {
   .pageHeader {
-    padding: calc(var(--section-padding-mobile) + 70px) 0 2rem;
+    padding: 2rem 0;
   }
 
   .filterSection {

@@ -78,3 +78,27 @@
   color: var(--text-secondary);
   line-height: 1.6;
 }
+
+.clamped {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.readMore {
+  margin-top: 0.5rem;
+  padding: 0;
+  background: none;
+  border: none;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--copper-bronze);
+  cursor: pointer;
+}
+
+.readMore:hover {
+  text-decoration: underline;
+}

@@ -102,6 +102,21 @@
   box-shadow: 0 10px 30px rgba(184, 115, 51, 0.3);
 }
 
+.submitButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.error {
+  display: block;
+  margin-top: 0.4rem;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--copper-bronze);
+}
+
 .successMessage {
   text-align: center;
   padding: 3rem 2rem;

@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
+import { useForm, ValidationError } from '@formspree/react';
 import styles from './ContactFormSection.module.css';
 import type { FormField } from '../../types/content';
 
 interface ContactFormSectionProps {
   heading: string;
+  formspreeId: string;
   fields: FormField[];
   submitButton: string;
   successMessage: string;
@@ -11,23 +13,19 @@ interface ContactFormSectionProps {
 
 export const ContactFormSection: React.FC<ContactFormSectionProps> = ({
   heading,
+  formspreeId,
   fields,
   submitButton,
   successMessage
 }) => {
-  const [submitted, setSubmitted] = useState(false);
+  const [state, handleSubmit] = useForm(formspreeId);
   const [formData, setFormData] = useState<Record<string, string>>({});
-
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    setSubmitted(true);
-  };
 
   const handleChange = (name: string, value: string) => {
     setFormData(prev => ({ ...prev, [name]: value }));
   };
 
-  if (submitted) {
+  if (state.succeeded) {
     return (
       <section className={styles.section}>
         <div className={styles.container}>
@@ -84,14 +82,31 @@ export const ContactFormSection: React.FC<ContactFormSectionProps> = ({
                   className={styles.input}
                   placeholder={field.placeholder}
                   required={field.required}
+                  pattern={field.pattern}
+                  title={field.patternMessage}
                   value={formData[field.name] || ''}
-                  onChange={(e) => handleChange(field.name, e.target.value)}
+                  onChange={(e) => {
+                    e.target.setCustomValidity('');
+                    handleChange(field.name, e.target.value);
+                  }}
+                  onInvalid={(e) => {
+                    if (field.patternMessage && e.currentTarget.validity.patternMismatch) {
+                      e.currentTarget.setCustomValidity(field.patternMessage);
+                    }
+                  }}
                 />
               )}
+              <ValidationError
+                className={styles.error}
+                prefix={field.label}
+                field={field.name}
+                errors={state.errors}
+              />
             </div>
           ))}
-          <button type="submit" className={styles.submitButton}>
-            {submitButton}
+          <ValidationError className={styles.error} errors={state.errors} />
+          <button type="submit" className={styles.submitButton} disabled={state.submitting}>
+            {state.submitting ? 'SENDING...' : submitButton}
           </button>
         </form>
       </div>

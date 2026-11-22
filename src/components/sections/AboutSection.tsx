@@ -25,7 +25,7 @@ const ProductThumbnail: React.FC<{ product: ProductItem; index: number }> = ({ p
       className={styles.thumbnail}
       style={{ animationDelay: `${index * 150}ms` }}
     >
-      {!imageError && (
+      {product.image && !imageError && (
         <img
           src={product.image}
           alt={product.name}
