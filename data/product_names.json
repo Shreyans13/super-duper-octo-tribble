@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "product_name": "COIL SHINE",
+    "subtitle": "Coil & Fin Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 1,
+    "pdf_page": 8
+  },
+  {
+    "id": 2,
+    "product_name": "ECOSOL-D60",
+    "subtitle": "Solvent Based Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 3,
+    "pdf_page": 10
+  },
+  {
+    "id": 3,
+    "product_name": "ECOSOL-H",
+    "subtitle": "Solvent Based Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 5,
+    "pdf_page": 12
+  },
+  {
+    "id": 4,
+    "product_name": "ECOSOL-VD",
+    "subtitle": "Solvent Based Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 7,
+    "pdf_page": 14
+  },
+  {
+    "id": 5,
+    "product_name": "ECOTREAT 130",
+    "subtitle": "Mould & Die Protector",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 9,
+    "pdf_page": 16
+  },
+  {
+    "id": 6,
+    "product_name": "ECOTREAT 150",
+    "subtitle": "Corrosion Protector - Transparent",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 11,
+    "pdf_page": 18
+  },
+  {
+    "id": 7,
+    "product_name": "ECOTREAT 400",
+    "subtitle": "Solvent Based Water Mixable Parts Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 12,
+    "pdf_page": 19
+  },
+  {
+    "id": 8,
+    "product_name": "ECOTREAT 402",
+    "subtitle": "General Purpose Degreaser - Neutral",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 14,
+    "pdf_page": 21
+  },
+  {
+    "id": 9,
+    "product_name": "ECOTREAT 403",
+    "subtitle": "Hard Water Descaler",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 16,
+    "pdf_page": 23
+  },
+  {
+    "id": 10,
+    "product_name": "ECOTREAT 405",
+    "subtitle": "Cement & Concrete Deposit Remover",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 18,
+    "pdf_page": 25
+  },
+  {
+    "id": 11,
+    "product_name": "ECOTREAT 406",
+    "subtitle": "Flushing Fluid Descaler",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 20,
+    "pdf_page": 27
+  },
+  {
+    "id": 12,
+    "product_name": "ECOTREAT 408G",
+    "subtitle": "Rust Remover cum Cleaner Gel",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 22,
+    "pdf_page": 29
+  },
+  {
+    "id": 13,
+    "product_name": "ECOTREAT 408",
+    "subtitle": "Rust Remover & Metal Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 24,
+    "pdf_page": 31
+  },
+  {
+    "id": 14,
+    "product_name": "ECOTREAT 409",
+    "subtitle": "One-Step CIP Cleaner for Food & Beverage - Low pH Approach",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 26,
+    "pdf_page": 33
+  },
+  {
+    "id": 15,
+    "product_name": "ECOTREAT 410",
+    "subtitle": "One-Step CIP Cleaner for Food & Beverage - Alkaline Approach",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 28,
+    "pdf_page": 35
+  },
+  {
+    "id": 16,
+    "product_name": "ECOTREAT 411",
+    "subtitle": "Milk Stone & Scale Remover - Dairy Industry",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 30,
+    "pdf_page": 37
+  },
+  {
+    "id": 17,
+    "product_name": "ECOTREAT 412-10X",
+    "subtitle": "Carbon Deposit Remover Super Concentrate",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 32,
+    "pdf_page": 39
+  },
+  {
+    "id": 18,
+    "product_name": "ECOTREAT 414",
+    "subtitle": "Waterless Hand Cleaner Scrubber Lotion",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 34,
+    "pdf_page": 41
+  },
+  {
+    "id": 19,
+    "product_name": "ECOTREAT 415",
+    "subtitle": "Waterless Hand Cleaner with Micro-Scrubbers",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 36,
+    "pdf_page": 43
+  },
+  {
+    "id": 20,
+    "product_name": "ECOTREAT 417",
+    "subtitle": "Biodegradable Multipurpose Cleaner - Neutral Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 38,
+    "pdf_page": 45
+  },
+  {
+    "id": 21,
+    "product_name": "ECOTREAT 418",
+    "subtitle": "Biodegradable All-Purpose Cleaner & Degreaser",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 40,
+    "pdf_page": 47
+  },
+  {
+    "id": 22,
+    "product_name": "ECOTREAT 419",
+    "subtitle": "Low Foam Degreaser - Neutral",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 42,
+    "pdf_page": 49
+  },
+  {
+    "id": 23,
+    "product_name": "ECOTREAT 420",
+    "subtitle": "Bathroom Fitting Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 44,
+    "pdf_page": 51
+  },
+  {
+    "id": 24,
+    "product_name": "ECOTREAT 420-3X",
+    "subtitle": "Bathroom Fitting Cleaner - 3X Concentrated",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 46,
+    "pdf_page": 53
+  },
+  {
+    "id": 25,
+    "product_name": "ECOTREAT 421 HD",
+    "subtitle": "Heavy Duty Kitchen Degreaser",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 48,
+    "pdf_page": 55
+  },
+  {
+    "id": 26,
+    "product_name": "ECOTREAT 422",
+    "subtitle": "Kitchen Hood Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 50,
+    "pdf_page": 57
+  },
+  {
+    "id": 27,
+    "product_name": "ECOTREAT 422-3X",
+    "subtitle": "Kitchen Hood Cleaner - 3X Concentrated",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 52,
+    "pdf_page": 59
+  },
+  {
+    "id": 28,
+    "product_name": "ECOTREAT 424",
+    "subtitle": "Floor Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 54,
+    "pdf_page": 61
+  },
+  {
+    "id": 29,
+    "product_name": "ECOTREAT 424-3X",
+    "subtitle": "Floor Cleaner - Concentrated",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 56,
+    "pdf_page": 63
+  },
+  {
+    "id": 30,
+    "product_name": "ECOTREAT 424-10X",
+    "subtitle": "Floor Cleaner - Super Concentrated",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 58,
+    "pdf_page": 65
+  },
+  {
+    "id": 31,
+    "product_name": "ECOTREAT 426",
+    "subtitle": "Dish Wash",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 60,
+    "pdf_page": 67
+  },
+  {
+    "id": 32,
+    "product_name": "ECOTREAT 426-3X",
+    "subtitle": "Dish Wash Concentrated",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 62,
+    "pdf_page": 69
+  },
+  {
+    "id": 33,
+    "product_name": "ECOTREAT 428",
+    "subtitle": "Oven & Grill Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 64,
+    "pdf_page": 71
+  },
+  {
+    "id": 34,
+    "product_name": "ECOTREAT 428-3X",
+    "subtitle": "Oven & Grill Cleaner Concentrated",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 66,
+    "pdf_page": 73
+  },
+  {
+    "id": 35,
+    "product_name": "ECOTREAT 428-10X",
+    "subtitle": "Oven & Grill Cleaner Super Concentrated",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 68,
+    "pdf_page": 75
+  },
+  {
+    "id": 36,
+    "product_name": "ECOTREAT 429-10X",
+    "subtitle": "Drain Block Buster Super Concentrated",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 70,
+    "pdf_page": 77
+  },
+  {
+    "id": 37,
+    "product_name": "ECOTREAT 430",
+    "subtitle": "Hand Wash - Strawberry",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 72,
+    "pdf_page": 79
+  },
+  {
+    "id": 38,
+    "product_name": "ECOTREAT 430-3X",
+    "subtitle": "Hand Wash Concentrated - Strawberry",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 74,
+    "pdf_page": 81
+  },
+  {
+    "id": 39,
+    "product_name": "ECOTREAT 440",
+    "subtitle": "Toilet Bowl Cleaner - Gel",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 76,
+    "pdf_page": 83
+  },
+  {
+    "id": 40,
+    "product_name": "ECOTREAT 442",
+    "subtitle": "Bathroom Cleaner Disinfectant",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 78,
+    "pdf_page": 85
+  },
+  {
+    "id": 41,
+    "product_name": "ECOTREAT 442-3X",
+    "subtitle": "Bathroom Cleaner Disinfectant - Concentrated",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 80,
+    "pdf_page": 87
+  },
+  {
+    "id": 42,
+    "product_name": "ECOTREAT 445",
+    "subtitle": "Glass Cleaner - Non Streak & Antistatic",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 82,
+    "pdf_page": 89
+  },
+  {
+    "id": 43,
+    "product_name": "ECOTREAT 446-10X",
+    "subtitle": "Solar Panel Cleaner - Non Streak & Antistatic",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 84,
+    "pdf_page": 91
+  },
+  {
+    "id": 44,
+    "product_name": "ECOTREAT 448",
+    "subtitle": "High & Dry Foam Carpet Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 86,
+    "pdf_page": 93
+  },
+  {
+    "id": 45,
+    "product_name": "ECOTREAT 450",
+    "subtitle": "Low Foam Carpet Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 88,
+    "pdf_page": 95
+  },
+  {
+    "id": 46,
+    "product_name": "ECOTREAT 452",
+    "subtitle": "Car & Truck Foam Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 90,
+    "pdf_page": 97
+  },
+  {
+    "id": 47,
+    "product_name": "ECOTREAT 453",
+    "subtitle": "Car Wash Shine",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 92,
+    "pdf_page": 99
+  },
+  {
+    "id": 48,
+    "product_name": "ECOTREAT 455",
+    "subtitle": "Ultrasonic Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 94,
+    "pdf_page": 101
+  },
+  {
+    "id": 49,
+    "product_name": "ECOTREAT 460",
+    "subtitle": "Pulp & Paper DO Stage Washer Descaler",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 96,
+    "pdf_page": 103
+  },
+  {
+    "id": 50,
+    "product_name": "ECOTREAT 465",
+    "subtitle": "Milk Container Cleaner - Dairy & Food Industry",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 98,
+    "pdf_page": 105
+  },
+  {
+    "id": 51,
+    "product_name": "ECOTREAT 470",
+    "subtitle": "Fin Fan Cooler Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 100,
+    "pdf_page": 107
+  },
+  {
+    "id": 52,
+    "product_name": "ECOTREAT 472",
+    "subtitle": "Pulp & Lignin / Biological Extract Remover",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 102,
+    "pdf_page": 109
+  },
+  {
+    "id": 53,
+    "product_name": "ECOTREAT 480",
+    "subtitle": "Coil & Fin Cleaner cum Brightener",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 104,
+    "pdf_page": 111
+  },
+  {
+    "id": 54,
+    "product_name": "ECOTREAT 482",
+    "subtitle": "Neutral Coils & Fins Cleaner - Non Rinsing Type",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 106,
+    "pdf_page": 113
+  },
+  {
+    "id": 55,
+    "product_name": "ECOTREAT 488",
+    "subtitle": "Filter Cleaner & Degreaser - Solvent Based",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 108,
+    "pdf_page": 115
+  },
+  {
+    "id": 56,
+    "product_name": "ECOTREAT 490",
+    "subtitle": "Bio Based Parts Washing Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 110,
+    "pdf_page": 117
+  },
+  {
+    "id": 57,
+    "product_name": "ECOTREAT 495",
+    "subtitle": "Mould Cooling Channel Cleaner",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 112,
+    "pdf_page": 119
+  },
+  {
+    "id": 58,
+    "product_name": "ECOTREAT 498",
+    "subtitle": "Derouging & Metal Protector",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 114,
+    "pdf_page": 121
+  },
+  {
+    "id": 59,
+    "product_name": "ECOTREAT 502",
+    "subtitle": "Anti Foaming Agent",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 117,
+    "pdf_page": 124
+  },
+  {
+    "id": 60,
+    "product_name": "ECOTREAT 514",
+    "subtitle": "Zinc Deposit Remover",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 119,
+    "pdf_page": 126
+  },
+  {
+    "id": 61,
+    "product_name": "ECOTREAT 516",
+    "subtitle": "Ice Machine Cleaner & Descaler",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 121,
+    "pdf_page": 128
+  },
+  {
+    "id": 62,
+    "product_name": "ECOTREAT 600",
+    "subtitle": "Cold Galvanizing Compound",
+    "brand_series": "ECOTREAT",
+    "handbook_page": 123,
+    "pdf_page": 130
+  },
+  {
+    "id": 63,
+    "product_name": "BIO ELECTROLYTE",
+    "subtitle": "Industrial Descaler with Acid Replacement Technology",
+    "brand_series": "MOMAR",
+    "handbook_page": 125,
+    "pdf_page": 132
+  },
+  {
+    "id": 64,
+    "product_name": "CLEANTROL F-CITRUS",
+    "subtitle": "High Foaming Degreaser and Soil Encapsulation Concentrate for Combustible Dust",
+    "brand_series": "MOMAR",
+    "handbook_page": 126,
+    "pdf_page": 133
+  },
+  {
+    "id": 65,
+    "product_name": "COIL & FILTER CLEANER BRIGHTENER",
+    "subtitle": "Non-Acid, Highly Aggressive Coil, Fin & Filter Cleaner",
+    "brand_series": "MOMAR",
+    "handbook_page": 127,
+    "pdf_page": 134
+  },
+  {
+    "id": 66,
+    "product_name": "DUSTNOT 40",
+    "subtitle": "Dust Suppressant",
+    "brand_series": "MOMAR",
+    "handbook_page": 128,
+    "pdf_page": 135
+  },
+  {
+    "id": 67,
+    "product_name": "DUSTNOT F40",
+    "subtitle": "Foaming Dust Encapsulation Concentrate for Combustible Dusts",
+    "brand_series": "MOMAR",
+    "handbook_page": 129,
+    "pdf_page": 136
+  },
+  {
+    "id": 68,
+    "product_name": "FIRSTMATE RTU",
+    "subtitle": "No-Rinse Cleaning & Sanitizing Spray",
+    "brand_series": "MOMAR",
+    "handbook_page": 130,
+    "pdf_page": 137
+  },
+  {
+    "id": 69,
+    "product_name": "FIRSTMATE CONCENTRATE",
+    "subtitle": "No-Rinse Sanitizer & Hard Surface Disinfectant",
+    "brand_series": "MOMAR",
+    "handbook_page": 131,
+    "pdf_page": 138
+  },
+  {
+    "id": 70,
+    "product_name": "MINCRYL X50",
+    "subtitle": "Dust Control, Pile Sealing & Soil Retention",
+    "brand_series": "MOMAR",
+    "handbook_page": 132,
+    "pdf_page": 139
+  },
+  {
+    "id": 71,
+    "product_name": "FLAME FREEZE",
+    "subtitle": "Hydrocarbon Encapsulator, Penetrating Agent, Foaming Agent, Cooling Agent",
+    "brand_series": "MOMAR",
+    "handbook_page": 133,
+    "pdf_page": 140
+  },
+  {
+    "id": 72,
+    "product_name": "REGENCY",
+    "subtitle": "High-Foaming, Neutral Detergent",
+    "brand_series": "MOMAR",
+    "handbook_page": 134,
+    "pdf_page": 141
+  },
+  {
+    "id": 73,
+    "product_name": "RESINATOR",
+    "subtitle": "Dust Suppression, Soil Retention, Prime Coating & Erosion Control",
+    "brand_series": "MOMAR",
+    "handbook_page": 135,
+    "pdf_page": 142
+  },
+  {
+    "id": 74,
+    "product_name": "STALLON COATING",
+    "subtitle": "Black Rubberized Coating",
+    "brand_series": "MOMAR",
+    "handbook_page": 136,
+    "pdf_page": 143
+  },
+  {
+    "id": 75,
+    "product_name": "CLEANTROL LEMON WALL WASH",
+    "subtitle": "High-Foaming, Heavy-Duty Dust & Particulate Cleaner & Remover",
+    "brand_series": "MOMAR",
+    "handbook_page": 137,
+    "pdf_page": 144
+  },
+  {
+    "id": 76,
+    "product_name": "IART",
+    "subtitle": "Inhibited Acid Replacement Technology",
+    "brand_series": "MOMAR",
+    "handbook_page": 138,
+    "pdf_page": 145
+  },
+  {
+    "id": 77,
+    "product_name": "RYDALL-CC",
+    "subtitle": "Biodegradable Coil Cleaner",
+    "brand_series": "APEX (RYDALL / RYDLYME)",
+    "handbook_page": 139,
+    "pdf_page": 146
+  },
+  {
+    "id": 78,
+    "product_name": "RYDALL-HD",
+    "subtitle": "Biodegradable Heavy Duty Degreaser",
+    "brand_series": "APEX (RYDALL / RYDLYME)",
+    "handbook_page": 141,
+    "pdf_page": 148
+  },
+  {
+    "id": 79,
+    "product_name": "RYDALL-MP",
+    "subtitle": "Biodegradable Multipurpose Degreaser",
+    "brand_series": "APEX (RYDALL / RYDLYME)",
+    "handbook_page": 143,
+    "pdf_page": 150
+  },
+  {
+    "id": 80,
+    "product_name": "RYDALL-OE",
+    "subtitle": "Odour Eliminator",
+    "brand_series": "APEX (RYDALL / RYDLYME)",
+    "handbook_page": 145,
+    "pdf_page": 152
+  },
+  {
+    "id": 81,
+    "product_name": "RYDLYME",
+    "subtitle": "Biodegradable Hard Water Cleaner",
+    "brand_series": "APEX (RYDALL / RYDLYME)",
+    "handbook_page": 147,
+    "pdf_page": 154
+  }
+]

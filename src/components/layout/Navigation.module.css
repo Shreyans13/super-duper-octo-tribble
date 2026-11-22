@@ -164,6 +164,16 @@
   z-index: 1001;
 }
 
+/* Invisible bridge over the gap so moving to the menu doesn't trigger mouseleave */
+.dropdownMenu::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(-0.75rem - 2px);
+  height: calc(0.75rem + 2px);
+}
+
 .dropdownMenu li {
   padding: 0;
   border: none;

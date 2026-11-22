@@ -1,0 +1,653 @@
+[
+  {
+    "id": 1,
+    "product_name": "PIG® Universal Mats",
+    "section": "Absorbents",
+    "item_numbers": ["MAT2500", "MAT2501", "MAT2502", "MAT251"],
+    "description": "Best-selling PIG Mat completely absorbs oils, coolants, solvents and water, and traps absorbed liquid so it won't leak out when you pick it up. Use pads for smaller areas and rolls to cover floors beside machinery; the dispenser box keeps mat dry and ready to use. Available as pads (38cm x 48cm), a 76cm x 45.7m roll and handy pads in a dispenser."
+  },
+  {
+    "id": 2,
+    "product_name": "PIG® Grippy® Absorbent Mat",
+    "section": "Absorbents",
+    "item_numbers": ["MAT3200", "MAT3250", "MAT32100"],
+    "description": "Absorbent mat with a full-coverage adhesive backing that holds tight but peels up easily, leaving no residue. Eight layers of fine-fibre polypropylene absorb leaks, drips and overspray of oils, coolants, solvents and water, and the mat lies flat with no curling or bunching to reduce trip hazards. Certified by the NFSI as a high-traction surface."
+  },
+  {
+    "id": 3,
+    "product_name": "PIG® Grippy® Traffic Mat® Rug",
+    "section": "Absorbents",
+    "item_numbers": ["MAT3223"],
+    "description": "Stays put even under forklift traffic and equipment driveovers. Grippy backing keeps the rug in place without bunching or sliding while it catches leaks and drips to reduce slip and trip hazards. 91cm x 30.5m roll absorbs up to 43.5L."
+  },
+  {
+    "id": 4,
+    "product_name": "PIG® 4 in 1® Universal Absorbent Mat in Dispenser Box",
+    "section": "Absorbents",
+    "item_numbers": ["MAT284"],
+    "description": "Works four ways: tear off a pad to soak up spills, roll out a length to absorb overspray, fold it to line machine bases and catch leaks, or use it to wipe up drips. Absorbs oils, coolants, solvents and water. 41cm x 24.4m roll absorbs up to 34.8L."
+  },
+  {
+    "id": 5,
+    "product_name": "PIG® Rip-&-Fit® Universal Mat Roll in Dispenser Box",
+    "section": "Absorbents",
+    "item_numbers": ["MAT242"],
+    "description": "Multiple perforations let you tear a custom size to fit tight spaces and irregular footprints. Completely absorbs drips and overspray of oils, coolants, solvents and water and traps liquid so it won't leak out. 38cm x 18.3m roll absorbs up to 29.5L."
+  },
+  {
+    "id": 6,
+    "product_name": "PIG® Universal 210L Barrel Top Mat",
+    "section": "Absorbents",
+    "item_numbers": ["MAT208"],
+    "description": "Fits perfectly on 210-litre steel drums, with precut holes for 3/4\" and 2\" bungs that accept drum accessories. Completely absorbs drips of oils, coolants, solvents and water. Packed 25 per wall-mount dispenser box."
+  },
+  {
+    "id": 7,
+    "product_name": "PIG® Elephant Mat Rolls",
+    "section": "Absorbents",
+    "item_numbers": ["MAT234"],
+    "description": "Zigzag-stitched top layer withstands heavy foot traffic while completely absorbing oils, coolants, solvents and water to keep aisles and walkways clean and safe. 84cm x 45.7m roll absorbs up to 87L."
+  },
+  {
+    "id": 8,
+    "product_name": "PIG® Traffic Mat® Rug",
+    "section": "Absorbents",
+    "item_numbers": ["MAT218"],
+    "description": "Heat-fused and needle-punched for ultimate durability, so it can be walked or driven on repeatedly in forklift areas while absorbing oils, coolants, solvents and water. 91cm x 91.4m roll absorbs up to 147.6L."
+  },
+  {
+    "id": 9,
+    "product_name": "PIG® Traffic Mat® Poly-Back Rug",
+    "section": "Absorbents",
+    "item_numbers": ["MAT223"],
+    "description": "Traffic Mat Rug with a poly backing for better traction and more liquid control under heavy forklift traffic. 91cm x 30.5m roll absorbs up to 49.2L."
+  },
+  {
+    "id": 10,
+    "product_name": "PIG® Original Absorbent Socks",
+    "section": "Absorbents",
+    "item_numbers": ["404"],
+    "description": "Mouldable socks hug corners and machine bases to stop leaks from spreading; contained absorbent makes cleanup quick and easy. The original PIG Sock for everyday leaks. 8cm x 107cm, 40 per box, absorbs up to 75.7L per box."
+  },
+  {
+    "id": 11,
+    "product_name": "PIG® Blue Absorbent Socks",
+    "section": "Absorbents",
+    "item_numbers": ["4048"],
+    "description": "Absorbent socks designed for diking and damming spills of oils, coolants, solvents and water. 8cm x 122cm, 40 per box, absorbs up to 113.6L per box."
+  },
+  {
+    "id": 12,
+    "product_name": "PIG® Super Absorbent Socks",
+    "section": "Absorbents",
+    "item_numbers": ["PIG210"],
+    "description": "PIG Socks for maximum absorbency of oils, coolants, solvents and water around machine bases and leaks. 8.25cm x 107cm, 24 per box, absorbs up to 90.9L per box."
+  },
+  {
+    "id": 13,
+    "product_name": "PIG® Lite-Dri® Universal Absorbent",
+    "section": "Absorbents",
+    "item_numbers": ["PLP201"],
+    "description": "100% recycled cellulose begins to absorb the moment it touches oils, coolants, solvents or water. Lightweight and three times more absorbent than clay; non-abrasive so it won't scratch floors or damage machinery. 10kg bag absorbs 30.3L."
+  },
+  {
+    "id": 14,
+    "product_name": "PIG® Dri Loose Absorbent",
+    "section": "Absorbents",
+    "item_numbers": ["PLP213-1"],
+    "description": "Silica-free, cellulose-based kaolin granules spread like clay but without the dust or health hazards, and absorb liquids right to the core. Twice as absorbent as clay. 18kg bag absorbs 18.9L."
+  },
+  {
+    "id": 15,
+    "product_name": "PIG® Pillows",
+    "section": "Absorbents",
+    "item_numbers": ["PIL204", "PIL201"],
+    "description": "High-capacity pillows with a tough polypropylene cover and fast-wicking filler, ideal for steady leaks or spill response. Completely absorb oils, coolants, solvents and water and trap liquid so it won't leak out. Small (25cm x 25cm, 40/box) and large (43cm x 53cm, 16/box)."
+  },
+  {
+    "id": 16,
+    "product_name": "PIG® Pans",
+    "section": "Absorbents",
+    "item_numbers": ["2410PP-01"],
+    "description": "Wide-based pans packed with recycled loose filler catch drips from dispensing drums and trap up to 2.8L each, so they won't spill if bumped or kicked. Low 8cm profile fits tight spaces. 27cm x 27cm, 12 pans per box."
+  },
+  {
+    "id": 17,
+    "product_name": "PIG® Heavy Fluids Mat",
+    "section": "Absorbents",
+    "item_numbers": ["MAT209"],
+    "description": "Air pockets absorb thick liquids like paint, glue, resins, syrup and varnish with only slight pressure, trapping up to 3.64L per mat. Can also filter metal chips and debris from liquids. 46cm x 56cm, 50 per bag."
+  },
+  {
+    "id": 18,
+    "product_name": "PIG® Spill Kit in High-Visibility Bag",
+    "section": "Spill Control",
+    "item_numbers": ["KIT220"],
+    "description": "Compact, bright yellow water-resistant bag controls spills up to 34.1L; carry it by the hand strap or hang it on a wall. Includes PIG Blue Absorbent Socks, Universal Mat Pads and disposal bags."
+  },
+  {
+    "id": 19,
+    "product_name": "PIG® Spill Kit in a 76L Overpack Drum",
+    "section": "Spill Control",
+    "item_numbers": ["KIT211"],
+    "description": "Respond to spills up to 45.4L, then ship the used absorbents in the overpack, which is X-rated for Packing Groups I, II and III. Half-turn leakproof lid. Includes PIG Blue Socks, Universal Mat Pads, Pillows and disposal bags."
+  },
+  {
+    "id": 20,
+    "product_name": "PIG® Spill Kit in High-Visibility Cart",
+    "section": "Spill Control",
+    "item_numbers": ["KIT244"],
+    "description": "Wheeled kit with swing-out doors controls spills up to 53L, ideal for maintenance crews and labs. Includes PIG Blue Socks, a Rip-&-Fit Universal Mat Roll, Pillows, Repair Putty, nitrile gloves and safety goggles."
+  },
+  {
+    "id": 21,
+    "product_name": "PIG® Spill Kit in Cart",
+    "section": "Spill Control",
+    "item_numbers": ["KIT297"],
+    "description": "Mobile kit rolls right to the spill and controls up to 53L. Swing-out doors and prepacked shelves make it easy to inventory; lockable for security and narrow enough to fit through doors and aisles."
+  },
+  {
+    "id": 22,
+    "product_name": "PIG® Spill Kit in High-Visibility Mobile Container",
+    "section": "Spill Control",
+    "item_numbers": ["KIT273"],
+    "description": "Highly visible, lightweight polyethylene container resists chemicals and controls mid-sized spills up to 140L. Includes PIG Blue Socks, Universal Mat Pads, and PIG Dri and Lite-Dri loose absorbents for rough surfaces."
+  },
+  {
+    "id": 23,
+    "product_name": "PIG® Spill Kit in a 360L Overpack Drum",
+    "section": "Spill Control",
+    "item_numbers": ["KIT202-999"],
+    "description": "UN-rated overpack drum packed to control spills up to 227.1L and certified for shipping cleanup waste by land, sea or rail. Includes 26 PIG Blue Socks, 60 Universal Mat Pads, 8 Pillows and 56 wipers."
+  },
+  {
+    "id": 24,
+    "product_name": "PIG® Spill Kit in High-Visibility Storage Chest",
+    "section": "Spill Control",
+    "item_numbers": ["KIT279"],
+    "description": "High-capacity kit controls spills up to 287.7L. UV-resistant, lockable polyethylene chest keeps absorbents dry indoors or out and rolls through standard doorways on 13cm braking wheels. Includes 41 PIG Blue Socks, 154 Universal Mat Pads and 112 wipers."
+  },
+  {
+    "id": 25,
+    "product_name": "PIG® Oil-Only Mats",
+    "section": "Absorbents",
+    "item_numbers": ["MAT4500", "MAT4501", "MAT4502"],
+    "description": "Absorbs oil and repels water for maximum efficiency outdoors, even in the rain. Bright white colour makes absorbed oil easy to see. Pads (38cm x 48cm) catch drips and small spills; a 76cm x 45.7m roll covers large areas."
+  },
+  {
+    "id": 26,
+    "product_name": "PIG® UV-Resistant Oil-Only Mat",
+    "section": "Absorbents",
+    "item_numbers": ["MAT4105", "MAT4107"],
+    "description": "Durable top layer resists UV rays for up to one year for long-term outdoor use. Absorbs oily drips and overspray while repelling water, and floats to clean up oil-based liquids on water. Available as pads and an 81cm x 45.7m roll."
+  },
+  {
+    "id": 27,
+    "product_name": "PIG® Stat-Mat® Absorbent Pads",
+    "section": "Absorbents",
+    "item_numbers": ["MAT414"],
+    "description": "Specially treated to reduce the risk of electrostatic discharge, for confined areas, fuelling areas and wherever flammable vapours may be present. Absorbs acetone, benzene, petroleum, toluene, xylene and other flammables while repelling water. 50 pads per box."
+  },
+  {
+    "id": 28,
+    "product_name": "PIG® 4 in 1® Oil-Only Absorbent Mat in Dispenser Box",
+    "section": "Absorbents",
+    "item_numbers": ["MAT484"],
+    "description": "Tear off pads, roll out lengths, line machine bases or wipe up drips. Completely absorbs oil but not a drop of water. 41cm x 24.4m roll absorbs up to 34.8L."
+  },
+  {
+    "id": 29,
+    "product_name": "PIG® Rip-&-Fit® White Oil-Only Mat Roll in Dispenser Box",
+    "section": "Absorbents",
+    "item_numbers": ["MAT442"],
+    "description": "Multiple perforations let you create custom sizes for any application. Absorbs oil but not water, and absorbed liquids won't leak out when you pick up the mat. 38cm x 18.3m roll absorbs up to 29.9L."
+  },
+  {
+    "id": 30,
+    "product_name": "PIG® Oil-Only Spill Kit in High-Visibility Bag",
+    "section": "Spill Control",
+    "item_numbers": ["KIT420"],
+    "description": "Water-resistant hi-viz bag controls spills up to 37.9L and makes a great truck spill kit. Oil-Only Socks stop spreading spills and Stat-Mat Pads absorb quickly; absorbents meet NFPA 99 static decay standards for use with fuels and flammables."
+  },
+  {
+    "id": 31,
+    "product_name": "PIG® Oil-Only Spill Kit in a 76L Overpack Drum",
+    "section": "Spill Control",
+    "item_numbers": ["KIT411-01"],
+    "description": "Controls oil-based spills up to 47.3L in a UN-rated overpack drum, X-rated for shipping cleanup waste by land, sea or rail. Includes Sump Skimmers, Oil-Only Booms and Stat-Mat Absorbent Pads."
+  },
+  {
+    "id": 32,
+    "product_name": "PIG® Oil-Only Spill Kit in High-Visibility Cart",
+    "section": "Spill Control",
+    "item_numbers": ["KIT444"],
+    "description": "Wheeled cart with swing-out front doors controls spills up to 56.8L. Perforated Oil-Only Mat Roll tears into pads or lengths; 20cm wheels fit down narrow aisles and through doorways."
+  },
+  {
+    "id": 33,
+    "product_name": "PIG® Oil-Only Spill Kit in Cart",
+    "section": "Spill Control",
+    "item_numbers": ["KIT497"],
+    "description": "Mobile kit rolls right to the spill and controls up to 56.8L. Swing-out doors and prepacked shelves for easy access; lockable and narrow enough to fit through doors and aisles."
+  },
+  {
+    "id": 34,
+    "product_name": "PIG® Oil-Only High-Visibility Mobile Container Kit",
+    "section": "Spill Control",
+    "item_numbers": ["KIT469"],
+    "description": "Bright yellow container with a hinged lid controls mid-sized oil spills up to 151.4L. Oil-Only Socks stop spreading spills, Stat-Mat Pads absorb and Lite-Dri Oil-Only Absorbent cleans up residue on rough surfaces."
+  },
+  {
+    "id": 35,
+    "product_name": "PIG® Oil-Only Spill Kit in a 360L Overpack Drum",
+    "section": "Spill Control",
+    "item_numbers": ["KIT402-999"],
+    "description": "Lightweight, chemical-resistant polyethylene overpack controls spills up to 196.8L and is X-rated for shipping cleanup waste. Includes Oil-Only Booms, Oil-Only Socks and 60 Stat-Mat Absorbent Pads."
+  },
+  {
+    "id": 36,
+    "product_name": "PIG® Oil-Only Spill Kit in High-Visibility Storage Chest",
+    "section": "Spill Control",
+    "item_numbers": ["KIT479"],
+    "description": "High-capacity kit controls oil spills up to 280L. UV-resistant, lockable chest rolls on 13cm braking wheels through standard doorways. Includes Oil-Only Booms, 100 Stat-Mat Pads, Sump Skimmers and Spaghetti Strips."
+  },
+  {
+    "id": 37,
+    "product_name": "PIG® Oil-Only Absorbent Socks",
+    "section": "Spill Control",
+    "item_numbers": ["SKM210"],
+    "description": "UV-resistant socks absorb oil and repel water; use them to surround and confine oil spills on land or water. Bright white colour makes absorbed oil easy to see. 8cm x 122cm, 12 per box."
+  },
+  {
+    "id": 38,
+    "product_name": "PIG® Oil-Only Booms",
+    "section": "Spill Control",
+    "item_numbers": ["BOM405", "BOM408"],
+    "description": "Float to surround oil spills on water and repel rainwater for cleanups on land. Booms absorb oil, not water, and bob just below the surface when saturated. 13cm diameter in 3m and 6.1m lengths."
+  },
+  {
+    "id": 39,
+    "product_name": "PIG® Spaghetti Booms",
+    "section": "Spill Control",
+    "item_numbers": ["BOM403"],
+    "description": "Surround and absorb thick oil spills on water while repelling water. 13cm x 6.1m, 2 booms per bag, absorbs up to 90.8L per bag."
+  },
+  {
+    "id": 40,
+    "product_name": "PIG® Sump Skimmers",
+    "section": "Spill Control",
+    "item_numbers": ["SKM403"],
+    "description": "Absorb surface oil in sumps and oil tanks while repelling water. 20cm x 46cm, 12 skimmers per box, absorbs up to 81.7L per box."
+  },
+  {
+    "id": 41,
+    "product_name": "PIG® HazMat Pads & Rolls",
+    "section": "Absorbents",
+    "item_numbers": ["MAT302", "MAT351", "MAT354", "MAT309"],
+    "description": "Fine-fibre polypropylene specially treated to absorb acids, caustics and unknown liquids, including 98% sulfuric acid and 30% sodium hydroxide, without degrading. Pads soak up spills, catch drips or line work surfaces; the 76cm x 45.7m roll covers floors where dangerous liquids are used."
+  },
+  {
+    "id": 42,
+    "product_name": "PIG® Rip-&-Fit® HazMat Roll in Dispenser Box",
+    "section": "Absorbents",
+    "item_numbers": ["MAT342"],
+    "description": "HazMat roll with extra perforations for a custom fit; absorbs most acids and bases. 38cm x 18.3m roll absorbs up to 29L."
+  },
+  {
+    "id": 43,
+    "product_name": "PIG® HazMat Absorbent Socks",
+    "section": "Absorbents",
+    "item_numbers": ["PIG301", "124CR"],
+    "description": "Surround and confine spills of acids, caustics and unknown liquids, including highly concentrated corrosives. Traps liquid so it won't leak out. 8cm x 3m (6/box) and 8cm x 117cm (12/box)."
+  },
+  {
+    "id": 44,
+    "product_name": "PIG® HazMat Pillows",
+    "section": "Absorbents",
+    "item_numbers": ["PIL306", "PIL307", "HR7015"],
+    "description": "Absorb large amounts of acids, caustics and other dangerous liquids such as sulfuric, hydrochloric and phosphoric acid, sodium and potassium hydroxide and hydrogen peroxide. Small, medium and large sizes, 10 per box."
+  },
+  {
+    "id": 45,
+    "product_name": "PIG® HazMat Spill Kit in High-Visibility Bag",
+    "section": "Spill Control",
+    "item_numbers": ["KIT320"],
+    "description": "Compact, bright yellow bag controls corrosive spills up to 34.1L; carry it by the hand strap or hang it on a wall. Includes PIG HazMat Socks, HazMat Pads and disposal bags."
+  },
+  {
+    "id": 46,
+    "product_name": "PIG® HazMat Spill Kit in a 76L Overpack Salvage Drum",
+    "section": "Spill Control",
+    "item_numbers": ["KIT311"],
+    "description": "Respond to spills up to 41.6L, then ship used absorbents in the overpack, X-rated for Packing Groups I, II and III. Includes HazMat Socks, HazMat Pads and Pillows."
+  },
+  {
+    "id": 47,
+    "product_name": "PIG® HazMat Spill Kit in High-Visibility Cart",
+    "section": "Spill Control",
+    "item_numbers": ["KIT344"],
+    "description": "Mobile cart with a mounted PIG HazMat Roll for tearing off pads or lengths of mat; controls spills up to 53L and is easy to manoeuvre throughout your facility."
+  },
+  {
+    "id": 48,
+    "product_name": "PIG® HazMat Spill Kit in Cart",
+    "section": "Spill Control",
+    "item_numbers": ["KIT397"],
+    "description": "Lockable cart with swing-out doors and prepacked shelves controls spills up to 53L. Includes HazMat Socks, a Rip-&-Fit HazMat Roll, HazMat Pillows and PIG Repair Putty."
+  },
+  {
+    "id": 49,
+    "product_name": "PIG® HazMat Spill Kit in High-Visibility Mobile Container",
+    "section": "Spill Control",
+    "item_numbers": ["KIT366"],
+    "description": "Bright yellow wheeled container for fast response to mid-sized corrosive spills up to 128.7L. Includes HazMat Socks, HazMat Pads and PIG HazMat Pulp."
+  },
+  {
+    "id": 50,
+    "product_name": "PIG® HazMat Spill Kit in a 360L Overpack Drum",
+    "section": "Spill Control",
+    "item_numbers": ["KIT302-999"],
+    "description": "Respond to large spills up to 238.5L, then ship used absorbents in the overpack. Leakproof twist-on lid. Includes HazMat Socks, HazMat Dikes, 75 heavyweight HazMat Pads and HazMat Pillows."
+  },
+  {
+    "id": 51,
+    "product_name": "PIG® HazMat Spill Kit in High-Visibility Storage Chest",
+    "section": "Spill Control",
+    "item_numbers": ["KIT379"],
+    "description": "High-capacity kit controls spills up to 280L. UV-resistant, lockable chest rolls on 13cm braking wheels. Includes HazMat Socks, Dikes, 100 HazMat Pads, HazMat Pillows and HazMat Pulp."
+  },
+  {
+    "id": 52,
+    "product_name": "PIG® SpillBlocker® Dike",
+    "section": "Spill Control",
+    "item_numbers": ["PLR204", "PLR205", "PLR206"],
+    "description": "Flexible, reusable polyurethane dike with a tacky bottom that seals to floors to confine spills and protect drains. Contains liquids without absorbing them so they can be vacuumed and reclaimed. Join 3m dikes with connectors (PLR205) and corners (PLR206)."
+  },
+  {
+    "id": 53,
+    "product_name": "PIG® LeakBlocker® Dike",
+    "section": "Spill Control",
+    "item_numbers": ["PLR212"],
+    "description": "Low-profile dike confines machine leaks to keep your plant running smoothly. Non-absorbent, chemical-resistant and reusable. 5.7cm W x 3m L x 3.5cm H."
+  },
+  {
+    "id": 54,
+    "product_name": "PIG® Drive-Over DrainBlocker® Drain Cover",
+    "section": "Spill Control",
+    "item_numbers": ["PLR300", "PLR301", "PLR303", "PLR305"],
+    "description": "Seals tightly over drains to keep harmful liquids out and withstands forklift and heavy truck traffic. Abrasion-, tear-, UV- and chemical-resistant; leave down long-term or store for emergencies. Sizes from 46cm to 122cm square."
+  },
+  {
+    "id": 55,
+    "product_name": "PIG® Leak Diverter for Pipes",
+    "section": "Maintenance",
+    "item_numbers": ["TLS248"],
+    "description": "Compact diverter hangs underneath piping to catch leaks and channel them through a hose to a floor drain or container. Durable tarp resists UV, mildew and punctures. 46cm dia. x 46cm H; rubber straps included."
+  },
+  {
+    "id": 56,
+    "product_name": "PIG® Leak Diverter for Roofs",
+    "section": "Maintenance",
+    "item_numbers": ["TLS462"],
+    "description": "Hang beneath roof leaks to protect equipment and inventory; the collection tarp funnels liquid to a standard 1.9cm hose connection. Covers 152cm x 152cm, with corner grommets for easy hanging."
+  },
+  {
+    "id": 57,
+    "product_name": "PIG® Leak Diverter Bag Combination Kit for Roofs & Pipes",
+    "section": "Maintenance",
+    "item_numbers": ["TLS671"],
+    "description": "Prepares you for both roof and pipe leaks. Includes a roof and a pipe Leak Diverter, drainage hoses, hanging straps, drain fittings, caution mat pads, wipers, a 'Watch Your Step' sign, pipe wrap and repair putty in a duffel bag."
+  },
+  {
+    "id": 58,
+    "product_name": "Accessories for PIG® Leak Diverter",
+    "section": "Maintenance",
+    "item_numbers": ["TLS470", "TLS471", "TLS472", "TLS559", "TLS680", "TLS679", "TLS690"],
+    "description": "Must-have hardware for PIG Leak Diverters: rubber hanging straps (36, 48 and 61cm), adjustable straps for uneven ceilings, a quick connect set and clear drainage hoses in 3m and 7.6m lengths."
+  },
+  {
+    "id": 59,
+    "product_name": "PIG® Overpack Drums",
+    "section": "Maintenance",
+    "item_numbers": ["PAK725", "PAK384", "PAK489", "PAK708"],
+    "description": "UN-rated overpacks, X-rated for Packing Groups I, II and III, for transporting containers of hazardous waste or building your own spill kit. Available in 360L, 246L, 189L wheeled and 76L sizes."
+  },
+  {
+    "id": 60,
+    "product_name": "PIG® Deluxe Pipe Patch Kit",
+    "section": "Maintenance",
+    "item_numbers": ["GEN313"],
+    "description": "Quickly patch ruptured pipes with chemical-resistant stainless steel clamps and neoprene liners; just slide into place and tighten with the included ratchet wrench. Fits pipes from 1.27cm to 12.7cm diameter. 21 pieces."
+  },
+  {
+    "id": 61,
+    "product_name": "PIG® Drum Patch Kit",
+    "section": "Maintenance",
+    "item_numbers": ["GEN312-1"],
+    "description": "Economical kit with about 30 plugs, patches, PIG Repair Putty, tape and wedges stops drum leaks until permanent repairs can be made. Patches holes up to 12.7cm x 22cm."
+  },
+  {
+    "id": 62,
+    "product_name": "PIG® Multi-Purpose Repair Putty",
+    "section": "Maintenance",
+    "item_numbers": ["PTY201"],
+    "description": "Premeasured two-part epoxy in one stick sticks to steel, glass, masonry and most plastics. Knead and apply; cures harder than cement and can be drilled, sanded, machined or painted. Solvent- and VOC-free. 12 sticks per box."
+  },
+  {
+    "id": 63,
+    "product_name": "PIG® Steel Repair Putty",
+    "section": "Maintenance",
+    "item_numbers": ["PTY264"],
+    "description": "Two-part epoxy putty for repairing any ferrous or aluminium metal. Cures harder than cement; non-toxic and free of solvents and VOCs. 6 sticks per box."
+  },
+  {
+    "id": 64,
+    "product_name": "PIG® Wet Surface Repair Putty",
+    "section": "Maintenance",
+    "item_numbers": ["PTY259"],
+    "description": "Two-part epoxy putty that repairs electrical connections and pipes in wet areas, even under water. Safe for use on potable water lines. 6 sticks per box."
+  },
+  {
+    "id": 65,
+    "product_name": "PIG® Countertop Spill Containment Trays",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["PAK371"],
+    "description": "Compact, chemical-resistant tray with built-in containment controls leaks and drips on tabletops and counters. Pour hole lets you drain liquid. 5.6L sump, 30.5cm x 42cm x 10cm."
+  },
+  {
+    "id": 66,
+    "product_name": "PIG® Drum Spill Trays",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["DRM371"],
+    "description": "Catch small drips before they make a big mess; holds up to 23L with a 210-litre drum in place, and the removable grate holds smaller containers. 79.5L sump, 82cm x 82cm x 21cm."
+  },
+  {
+    "id": 67,
+    "product_name": "Poly Disposal Bags",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["BAG202"],
+    "description": "Highly visible 3-mil bags printed 'Hazardous Material – Handle with Care' to temporarily hold hazardous waste until disposal. Large bags fit 210-litre drums; small bags fit 113-litre drums."
+  },
+  {
+    "id": 68,
+    "product_name": "Pebble Step Sof-Tred™ Anti-Fatigue Mat",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["FLM126", "FLM127"],
+    "description": "Soft mat reduces leg and back strain for standing workers. Dyna-Shield coating adds chemical resistance, and bevelled edges with a textured surface prevent slips and trips. 91cm x 61cm and 152cm x 91cm."
+  },
+  {
+    "id": 69,
+    "product_name": "PIG® Heavy-Duty Maintenance Wipes",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["WIP304"],
+    "description": "Durable cellulose and synthetic-fibre wipers clean oil and solvents from parts and machines with jagged edges, metal chips or rust. Superior abrasion resistance and wet strength; no chemical binders. 1,000 per case."
+  },
+  {
+    "id": 70,
+    "product_name": "PIG® Sticky Steps® Mat",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["MAT566-BL"],
+    "description": "Adhesive-backed mat lifts dirt and debris off shoe bottoms and cart wheels to keep footprints out of offices. Peel off the dirty top sheet to reveal a clean one. 61cm x 114cm, 30 sheets per pad."
+  },
+  {
+    "id": 71,
+    "product_name": "Oil-Only Mop System",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["TLS631", "RFL631"],
+    "description": "Mop up oily spills without bending or stooping. Aluminium head swivels 360° and the handle telescopes to 1.75m; wring out pads to reclaim or dispose of oil with no laundering. Includes 12 oil-only pads; refills available."
+  },
+  {
+    "id": 72,
+    "product_name": "PIG® Poly Drum Funnel",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["DRM454"],
+    "description": "Covers the entire drum top to minimise spills and splashes. Double-wall funnel resists rust, corrosion and most chemicals, and high sidewalls let you pour up to 22.7L at a time. Cover in black or red."
+  },
+  {
+    "id": 73,
+    "product_name": "Pop-Up Drum Fill Gauge",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["DRM245"],
+    "description": "Fill gauge for 208-litre vertical drums with a 3/4\" NPT bung, showing the fill level at a glance."
+  },
+  {
+    "id": 74,
+    "product_name": "PIG® Burpless® Poly Coated One-Hand Sealable Drum Funnel",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["DRM1126"],
+    "description": "Strong one-piece spun-steel funnel with a chip-resistant powder-coated finish. Latching lid opens and closes with one hand to keep hazardous waste containers closed. Black, red or yellow."
+  },
+  {
+    "id": 75,
+    "product_name": "PIG® Burpless® Poly Funnel",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["DRM680"],
+    "description": "Wide 34cm funnel for fast, splash-free pouring into any steel or poly drum with a 2\" NPT bung. Internal vent tubes prevent burping back; lockable hinged lid in red, black or yellow helps segregate waste."
+  },
+  {
+    "id": 76,
+    "product_name": "Poly Funnel Ball Valve",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["DRM946"],
+    "description": "Poly ball valve for the Burpless Poly Funnel opens or closes with one hand and screws into a 2\" NPT drum opening to prevent spills if the drum is knocked over. Polyethylene with Teflon seals."
+  },
+  {
+    "id": 77,
+    "product_name": "PIG® Flammable Safety Cabinet",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["CAB712", "CAB713", "CAB714", "CAB715", "CAB716", "CAB718", "CAB719", "CAB720", "CAB721", "CAB722", "CAB746"],
+    "description": "FM Approved cabinets for storing flammables, with fully welded steel bodies, double-wall insulation, a 5.08cm leakproof sump, flame arrestor vents and a three-point non-sparking latch. Manual or self-closing doors; 83L to 416L capacity."
+  },
+  {
+    "id": 78,
+    "product_name": "PIG® Undercounter Flammable Safety Cabinet",
+    "section": "Material Handling & Safety",
+    "item_numbers": ["CAB731", "CAB732", "CAB733", "CAB734", "CAB735", "CAB736"],
+    "description": "Flammable safety cabinets sized to use storage space underneath countertops and benches. Manual or self-closing doors; 45L to 114L capacity, 89cm high."
+  },
+  {
+    "id": 79,
+    "product_name": "PIG® Bladder Containment Deck",
+    "section": "Containment",
+    "item_numbers": ["PAK523", "PAK525"],
+    "description": "Low-profile 1-drum deck with a rugged polyethylene bladder that unfurls to contain up to 250L from large leaks. Non-slip grate; connects to other 14.6cm high modular decks. Replacement bladders available."
+  },
+  {
+    "id": 80,
+    "product_name": "PIG® Poly Deck with Pallet Jack Pockets",
+    "section": "Containment",
+    "item_numbers": ["PAK1020"],
+    "description": "Move two fully loaded drums with a pallet jack, no forklift required. 907kg UDL capacity, 83.3L moulded-in sump and a low 16.5cm profile; LDPE resists UV, rust, corrosion and most chemicals."
+  },
+  {
+    "id": 81,
+    "product_name": "PIG® Poly Spill Containment Pallets",
+    "section": "Containment",
+    "item_numbers": ["PAK605", "PAK210"],
+    "description": "250L sump contains leaks, drips and spills to keep drum storage areas dry and safe. Removable non-slip grating; resists UV, rust, corrosion and most chemicals. 2-drum (steel drums) and 4-drum (2,722kg UDL) models."
+  },
+  {
+    "id": 82,
+    "product_name": "PIG® Poly Loading Ramp",
+    "section": "Containment",
+    "item_numbers": ["PAK734", "PAK726"],
+    "description": "Lightweight poly ramps for loading drums onto pallets and decks: PAK734 for 22cm and 25cm high pallets (317.5kg capacity) and PAK726 for low-profile decks (272kg capacity)."
+  },
+  {
+    "id": 83,
+    "product_name": "PIG® Modular IBC Spill Pallet",
+    "section": "Containment",
+    "item_numbers": ["PAK119", "PAK121"],
+    "description": "Modular polyethylene pallets with flow-through bulkhead fittings share sump capacity for economical tote storage. 4-way forklift pockets and lift-out grates; two-IBC (1,060L) and four-IBC (1,382L) systems with tool kit."
+  },
+  {
+    "id": 84,
+    "product_name": "PIG® Poly IBC Containment Unit",
+    "section": "Containment",
+    "item_numbers": ["PAK735"],
+    "description": "All-poly unit with a 66cm high deck for easier dispensing from IBCs. 3,628.8kg UDL capacity, 1,363L sump and a compact 160cm x 160cm footprint; optional drain."
+  },
+  {
+    "id": 85,
+    "product_name": "PIG® 4-Drum Roll Top Hardcover",
+    "section": "Containment",
+    "item_numbers": ["PAK901"],
+    "description": "Weatherproof, lockable outdoor storage protects drums from rain, rust and vandalism, with pumps and funnels left in place. Roll top slides up for access; 284L sump; forklift-liftable with drums in place."
+  },
+  {
+    "id": 86,
+    "product_name": "PIG® Poly Drum Rack",
+    "section": "Containment",
+    "item_numbers": ["DRM463"],
+    "description": "Holds a drum horizontally to create a dispensing station; a 19-litre pail fits under the faucet. Sloped design drains contents completely; 340kg capacity."
+  },
+  {
+    "id": 87,
+    "product_name": "PIG® Modular Spill Decks - Poly",
+    "section": "Containment",
+    "item_numbers": ["PAK524", "PAK529", "PAK531"],
+    "description": "Connect decks with flow-through bulkhead fittings to fit your storage area and share sump capacity. Low profile keeps drum tops and pumps easy to reach. 1-drum (42L), 2-drum (83L) and 4-drum (167L) decks."
+  },
+  {
+    "id": 88,
+    "product_name": "PIG® Adjustable Steel Loading Ramp",
+    "section": "Containment",
+    "item_numbers": ["PAK538"],
+    "description": "Steel loading ramp for 10–15cm high spill decks, holding loads up to 454kg. 67cm W x 97cm L."
+  },
+  {
+    "id": 89,
+    "product_name": "PIG® Oil & Debris Containment Boom",
+    "section": "Containment",
+    "item_numbers": ["BOM301"],
+    "description": "Floating, non-absorbent boom stops waterborne oil spills and debris from spreading. UV-resistant PVC shell with foam fill, 15cm freeboard and 30.5cm draft; 3,402kg breaking strength; snap hooks join booms. 30.5m long."
+  },
+  {
+    "id": 90,
+    "product_name": "PIG® Urinal Mat with Grippy® Backing",
+    "section": "Restroom",
+    "item_numbers": ["GRP7001", "GRP7002"],
+    "description": "Catches drips and splashes around urinals to keep floors cleaner and safer. Grippy backing holds the mat in place; the larger size offers extended coverage and easy alignment. 6 mats per box."
+  },
+  {
+    "id": 91,
+    "product_name": "PIG® Urinal Mat Runner with Grippy® Backing",
+    "section": "Restroom",
+    "item_numbers": ["GRP7004"],
+    "description": "Roll out and cut to length for continuous coverage under a row of urinals; each 61cm x 8m roll covers up to 10 urinals."
+  },
+  {
+    "id": 92,
+    "product_name": "PIG® Toilet Mat and Drip Pad with Grippy® Backing",
+    "section": "Restroom",
+    "item_numbers": ["GRP7003", "GRP7005"],
+    "description": "Toilet mat fits around the base of the toilet for maximum drip and splash coverage; the drip pad keeps messy plunger water off floors."
+  },
+  {
+    "id": 93,
+    "product_name": "PIG® Sink & Dryer Mat with Grippy® Backing",
+    "section": "Restroom",
+    "item_numbers": ["GRP7006", "GRP7007"],
+    "description": "Keeps floors dry and safe between and underneath sinks, hand dryers and towel dispensers. Two sizes to fit your restroom layout; 4 mats per box."
+  }
+]

@@ -15,7 +15,7 @@ const MiniProductCard: React.FC<{ product: ProductItem; index: number }> = ({ pr
   return (
     <div className={styles.miniProduct} style={{ animationDelay: `${index * 100}ms` }}>
       <div className={styles.miniProductImageWrap}>
-        {!imageError && (
+        {product.image && !imageError && (
           <img
             src={product.image}
             alt={product.name}

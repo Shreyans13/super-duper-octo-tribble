@@ -29,7 +29,7 @@ const BackgroundProduct: React.FC<{ product: ProductItem; index: number }> = ({ 
         animationDelay: `${index * 200}ms`
       }}
     >
-      {!imageError && (
+      {product.image && !imageError && (
         <img
           src={product.image}
           alt={product.name}

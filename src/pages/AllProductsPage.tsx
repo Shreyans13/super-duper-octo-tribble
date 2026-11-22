@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect, useRef } from 'react';
 import { ProductItemCard, SectionLabel } from '../components/ui';
 import productsData from '../content/pages/products.json';
 import type { ProductItem } from '../types/content';
@@ -72,54 +72,72 @@ const AllProductsPage: React.FC = () => {
 
   const hasActiveFilters = searchQuery !== '' || selectedCompany !== 'all';
 
+  // Compact the sticky filter bar once it has scrolled up under the navbar
+  const sentinelRef = useRef<HTMLDivElement>(null);
+  const [isStuck, setIsStuck] = useState(false);
+
+  useEffect(() => {
+    const sentinel = sentinelRef.current;
+    if (!sentinel) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => setIsStuck(!entry.isIntersecting),
+      { rootMargin: '-81px 0px 0px 0px' }
+    );
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, []);
+
   return (
     <>
       <section className={styles.pageHeader}>
         <div className={styles.container}>
           <SectionLabel>Product Catalog</SectionLabel>
-          <h1 className={styles.pageTitle}>ALL PRODUCTS</h1>
+          <h1 className={styles.pageTitle}>ALL PRODUCTS &amp; EQUIPMENT</h1>
           <p className={styles.pageSubtitle}>
-            Browse our complete range of industrial equipment from leading manufacturers
+            Browse our complete range of industrial cleaning chemicals and maintenance equipment
           </p>
         </div>
       </section>
 
-      <section className={styles.filterSection}>
+      <div ref={sentinelRef} className={styles.stickySentinel} aria-hidden="true" />
+      <section className={`${styles.filterSection} ${isStuck ? styles.compact : ''}`}>
         <div className={styles.container}>
-          {/* Search Bar */}
-          <div className={styles.searchContainer}>
-            <input
-              type="text"
-              placeholder="Search products, companies, or descriptions..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              className={styles.searchInput}
-            />
-            {searchQuery && (
-              <button
-                onClick={() => setSearchQuery('')}
-                className={styles.clearButton}
-              >
-                ×
-              </button>
-            )}
-          </div>
-
-          {/* Company Filter Buttons */}
-          <div className={styles.filterContainer}>
-            <span className={styles.filterLabel}>Filter by Company:</span>
-            <div className={styles.filterButtons}>
-              {companies.map(company => (
+          <div className={styles.filterBar}>
+            {/* Search Bar */}
+            <div className={styles.searchContainer}>
+              <input
+                type="text"
+                placeholder="Search products, equipment, or descriptions..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className={styles.searchInput}
+              />
+              {searchQuery && (
                 <button
-                  key={company}
-                  onClick={() => setSelectedCompany(company)}
-                  className={`${styles.filterButton} ${
-                    selectedCompany === company ? styles.active : ''
-                  }`}
+                  onClick={() => setSearchQuery('')}
+                  className={styles.clearButton}
                 >
-                  {getCompanyDisplayName(company)}
+                  ×
                 </button>
-              ))}
+              )}
+            </div>
+
+            {/* Company Filter Buttons */}
+            <div className={styles.filterContainer}>
+              <span className={styles.filterLabel}>Filter by Company:</span>
+              <div className={styles.filterButtons}>
+                {companies.map(company => (
+                  <button
+                    key={company}
+                    onClick={() => setSelectedCompany(company)}
+                    className={`${styles.filterButton} ${
+                      selectedCompany === company ? styles.active : ''
+                    }`}
+                  >
+                    {getCompanyDisplayName(company)}
+                  </button>
+                ))}
+              </div>
             </div>
           </div>
 
@@ -159,7 +177,7 @@ const AllProductsPage: React.FC = () => {
                       image={product.image}
                       company={product.company}
                       description={product.description}
-                      delay={index * 100}
+                      delay={Math.min(index, 5) * 100}
                     />
                   ))}
                 </div>

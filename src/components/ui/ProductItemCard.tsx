@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
 import styles from './ProductItemCard.module.css';
 
@@ -20,6 +20,20 @@ export const ProductItemCard: React.FC<ProductItemCardProps> = ({
   const { ref, isVisible } = useScrollAnimation<HTMLDivElement>();
   const [imageLoaded, setImageLoaded] = useState(false);
   const [imageError, setImageError] = useState(false);
+  const [expanded, setExpanded] = useState(false);
+  const [isClamped, setIsClamped] = useState(false);
+  const descriptionRef = useRef<HTMLParagraphElement>(null);
+
+  // Only offer "Read more" when the clamped text actually overflows
+  useEffect(() => {
+    const el = descriptionRef.current;
+    if (!el || expanded) return;
+    const check = () => setIsClamped(el.scrollHeight > el.clientHeight + 1);
+    check();
+    const observer = new ResizeObserver(check);
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, [description, expanded]);
 
   return (
     <div
@@ -28,7 +42,7 @@ export const ProductItemCard: React.FC<ProductItemCardProps> = ({
       style={{ transitionDelay: `${delay}ms` }}
     >
       <div className={styles.imageContainer}>
-        {!imageError && (
+        {image && !imageError && (
           <img
             src={image}
             alt={name}
@@ -47,7 +61,22 @@ export const ProductItemCard: React.FC<ProductItemCardProps> = ({
       </div>
       <div className={styles.content}>
         <h3 className={styles.name}>{name}</h3>
-        <p className={styles.description}>{description}</p>
+        <p
+          ref={descriptionRef}
+          className={`${styles.description} ${expanded ? '' : styles.clamped}`}
+        >
+          {description}
+        </p>
+        {(isClamped || expanded) && (
+          <button
+            type="button"
+            className={styles.readMore}
+            onClick={() => setExpanded(prev => !prev)}
+            aria-expanded={expanded}
+          >
+            {expanded ? 'Read less' : 'Read more'}
+          </button>
+        )}
       </div>
     </div>
   );

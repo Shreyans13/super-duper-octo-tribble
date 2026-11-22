@@ -1,0 +1,877 @@
+[
+  {
+    "id": 1,
+    "equipment_name": "PF-20",
+    "category": "Descaling Pump",
+    "handbook_page": 7,
+    "pdf_page": 8
+  },
+  {
+    "id": 2,
+    "equipment_name": "PF-40",
+    "category": "Descaling Pump",
+    "handbook_page": 9,
+    "pdf_page": 10
+  },
+  {
+    "id": 3,
+    "equipment_name": "PF-60",
+    "category": "Descaling Pump",
+    "handbook_page": 13,
+    "pdf_page": 14
+  },
+  {
+    "id": 4,
+    "equipment_name": "PF-125",
+    "category": "Descaling Pump",
+    "handbook_page": 11,
+    "pdf_page": 12
+  },
+  {
+    "id": 5,
+    "equipment_name": "PRO",
+    "category": "Goodway Product RAM",
+    "handbook_page": 16,
+    "pdf_page": 17
+  },
+  {
+    "id": 6,
+    "equipment_name": "RAM PRO XL",
+    "category": "Goodway Product RAM",
+    "handbook_page": 18,
+    "pdf_page": 19
+  },
+  {
+    "id": 7,
+    "equipment_name": "I RAM EX-100",
+    "category": "Goodway Product RAM",
+    "handbook_page": 19,
+    "pdf_page": 20
+  },
+  {
+    "id": 8,
+    "equipment_name": "AWT-100",
+    "category": "Goodway Product RAM",
+    "handbook_page": 21,
+    "pdf_page": 22
+  },
+  {
+    "id": 9,
+    "equipment_name": "AWT-100X",
+    "category": "Goodway Product RAM",
+    "handbook_page": 22,
+    "pdf_page": 23
+  },
+  {
+    "id": 10,
+    "equipment_name": "CC-400 HF",
+    "category": "Goodway Product RAM",
+    "handbook_page": 23,
+    "pdf_page": 24
+  },
+  {
+    "id": 11,
+    "equipment_name": "CC-140",
+    "category": "Goodway Product RAM",
+    "handbook_page": 25,
+    "pdf_page": 25
+  },
+  {
+    "id": 12,
+    "equipment_name": "CC-100",
+    "category": "Goodway Product RAM",
+    "handbook_page": 25,
+    "pdf_page": 26
+  },
+  {
+    "id": 13,
+    "equipment_name": "RAM-5",
+    "category": "Goodway Product RAM",
+    "handbook_page": 26,
+    "pdf_page": 27
+  },
+  {
+    "id": 14,
+    "equipment_name": "CTV-1501-60",
+    "category": "Goodway Product RAM",
+    "handbook_page": 28,
+    "pdf_page": 29
+  },
+  {
+    "id": 15,
+    "equipment_name": "TFC-200",
+    "category": "Goodway Product RAM",
+    "handbook_page": 29,
+    "pdf_page": 30
+  },
+  {
+    "id": 16,
+    "equipment_name": "AQ-RV450",
+    "category": "Goodway Product RAM",
+    "handbook_page": 30,
+    "pdf_page": 31
+  },
+  {
+    "id": 17,
+    "equipment_name": "AQ-R1500",
+    "category": "Goodway Product RAM",
+    "handbook_page": 31,
+    "pdf_page": 32
+  },
+  {
+    "id": 18,
+    "equipment_name": "JETLOAD",
+    "category": "Goodway Product RAM",
+    "handbook_page": 32,
+    "pdf_page": 33
+  },
+  {
+    "id": 19,
+    "equipment_name": "BEP-3510",
+    "category": "Goodway Product RAM",
+    "handbook_page": 33,
+    "pdf_page": 34
+  },
+  {
+    "id": 20,
+    "equipment_name": "BSL-50",
+    "category": "Goodway Product RAM",
+    "handbook_page": 34,
+    "pdf_page": 35
+  },
+  {
+    "id": 21,
+    "equipment_name": "QS-300",
+    "category": "Goodway Product RAM",
+    "handbook_page": 35,
+    "pdf_page": 36
+  },
+  {
+    "id": 22,
+    "equipment_name": "LEAK DETECTOR LD",
+    "category": "Inspection and Test Equipment",
+    "handbook_page": 37,
+    "pdf_page": 38
+  },
+  {
+    "id": 23,
+    "equipment_name": "VIDEO SCOPE PF4010VS",
+    "category": "Inspection and Test Equipment",
+    "handbook_page": 38,
+    "pdf_page": 39
+  },
+  {
+    "id": 24,
+    "equipment_name": "DRAIN CAMERA PF4030DC",
+    "category": "Inspection and Test Equipment",
+    "handbook_page": 39,
+    "pdf_page": 40
+  },
+  {
+    "id": 25,
+    "equipment_name": "WIRELESS PIPELINE LOCATOR PF 4020 PL",
+    "category": "Inspection and Test Equipment",
+    "handbook_page": 40,
+    "pdf_page": 41
+  },
+  {
+    "id": 26,
+    "equipment_name": "CAVITY INSPECTION CAMERA PF 4013 CI",
+    "category": "Inspection and Test Equipment",
+    "handbook_page": 41,
+    "pdf_page": 42
+  },
+  {
+    "id": 27,
+    "equipment_name": "VIDEO DRAIN INSPECTION CAMERA PF 4031 DC",
+    "category": "Inspection and Test Equipment",
+    "handbook_page": 42,
+    "pdf_page": 43
+  },
+  {
+    "id": 28,
+    "equipment_name": "WIRELESS DUCT CLEANING INSPECTION CAMERA PF 4032 DC",
+    "category": "Inspection and Test Equipment",
+    "handbook_page": 43,
+    "pdf_page": 44
+  },
+  {
+    "id": 29,
+    "equipment_name": "POCKET ENDOSCOPE CAMERA PF 4014 PE",
+    "category": "Inspection and Test Equipment",
+    "handbook_page": 44,
+    "pdf_page": 45
+  },
+  {
+    "id": 30,
+    "equipment_name": "COLD FOGGER 4.5",
+    "category": "Cold Fogger",
+    "handbook_page": 45,
+    "pdf_page": 46
+  },
+  {
+    "id": 31,
+    "equipment_name": "COLD FOGGER 8.0",
+    "category": "Cold Fogger",
+    "handbook_page": 46,
+    "pdf_page": 47
+  },
+  {
+    "id": 32,
+    "equipment_name": "GPW-1300",
+    "category": "High Pressure Washer",
+    "handbook_page": 48,
+    "pdf_page": 49
+  },
+  {
+    "id": 33,
+    "equipment_name": "GPW-4000-G",
+    "category": "High Pressure Washer",
+    "handbook_page": 49,
+    "pdf_page": 50
+  },
+  {
+    "id": 34,
+    "equipment_name": "PF-22800",
+    "category": "High Pressure Washer",
+    "handbook_page": 50,
+    "pdf_page": 51
+  },
+  {
+    "id": 35,
+    "equipment_name": "PF-22500",
+    "category": "High Pressure Washer",
+    "handbook_page": 52,
+    "pdf_page": 53
+  },
+  {
+    "id": 36,
+    "equipment_name": "PF-15250-B3",
+    "category": "High Pressure Washer",
+    "handbook_page": 54,
+    "pdf_page": 55
+  },
+  {
+    "id": 37,
+    "equipment_name": "PF-15140-B3",
+    "category": "High Pressure Washer",
+    "handbook_page": 56,
+    "pdf_page": 57
+  },
+  {
+    "id": 38,
+    "equipment_name": "PF-15180-B3",
+    "category": "High Pressure Washer",
+    "handbook_page": 58,
+    "pdf_page": 59
+  },
+  {
+    "id": 39,
+    "equipment_name": "PFS-9022-BT-R",
+    "category": "Sweeper and Scrubber",
+    "handbook_page": 61,
+    "pdf_page": 62
+  },
+  {
+    "id": 40,
+    "equipment_name": "PFS-13034-BT-R",
+    "category": "Sweeper and Scrubber",
+    "handbook_page": 63,
+    "pdf_page": 64
+  },
+  {
+    "id": 41,
+    "equipment_name": "PFS-3052-SWR",
+    "category": "Sweeper and Scrubber",
+    "handbook_page": 66,
+    "pdf_page": 66
+  },
+  {
+    "id": 42,
+    "equipment_name": "PFS-5520-BT",
+    "category": "Sweeper and Scrubber",
+    "handbook_page": 67,
+    "pdf_page": 68
+  },
+  {
+    "id": 43,
+    "equipment_name": "PFS-1513-EL",
+    "category": "Sweeper and Scrubber",
+    "handbook_page": 69,
+    "pdf_page": 70
+  },
+  {
+    "id": 44,
+    "equipment_name": "PFS-3517-EL",
+    "category": "Sweeper and Scrubber",
+    "handbook_page": 71,
+    "pdf_page": 72
+  },
+  {
+    "id": 45,
+    "equipment_name": "PFS-1711-EL",
+    "category": "Sweeper and Scrubber",
+    "handbook_page": 73,
+    "pdf_page": 74
+  },
+  {
+    "id": 46,
+    "equipment_name": "PFS-36-SWM",
+    "category": "Sweeper and Scrubber",
+    "handbook_page": 74,
+    "pdf_page": 75
+  },
+  {
+    "id": 47,
+    "equipment_name": "CJ-200E",
+    "category": "SpeedClean",
+    "handbook_page": 78,
+    "pdf_page": 79
+  },
+  {
+    "id": 48,
+    "equipment_name": "CJ-125",
+    "category": "SpeedClean",
+    "handbook_page": 79,
+    "pdf_page": 80
+  },
+  {
+    "id": 49,
+    "equipment_name": "FLOWJET-60",
+    "category": "SpeedClean",
+    "handbook_page": 82,
+    "pdf_page": 83
+  },
+  {
+    "id": 50,
+    "equipment_name": "VEGA PLUS",
+    "category": "Steam Machine",
+    "handbook_page": 93,
+    "pdf_page": 94
+  },
+  {
+    "id": 51,
+    "equipment_name": "DEDALO",
+    "category": "Steam Machine",
+    "handbook_page": 94,
+    "pdf_page": 95
+  },
+  {
+    "id": 52,
+    "equipment_name": "SUPERNOVA",
+    "category": "Steam Machine",
+    "handbook_page": 95,
+    "pdf_page": 96
+  },
+  {
+    "id": 53,
+    "equipment_name": "SUPERVAP",
+    "category": "Steam Machine",
+    "handbook_page": 96,
+    "pdf_page": 97
+  },
+  {
+    "id": 54,
+    "equipment_name": "GALAXY",
+    "category": "Steam Machine",
+    "handbook_page": 97,
+    "pdf_page": 98
+  },
+  {
+    "id": 55,
+    "equipment_name": "COSMOS",
+    "category": "Steam Machine",
+    "handbook_page": 98,
+    "pdf_page": 99
+  },
+  {
+    "id": 56,
+    "equipment_name": "LIBERTY FOAMER",
+    "category": "Foam Machine",
+    "handbook_page": 100,
+    "pdf_page": 101
+  },
+  {
+    "id": 57,
+    "equipment_name": "FREEDOM FOAMER 2.5",
+    "category": "Foam Machine",
+    "handbook_page": 101,
+    "pdf_page": 102
+  },
+  {
+    "id": 58,
+    "equipment_name": "FREEDOM FOAMER XV",
+    "category": "Foam Machine",
+    "handbook_page": 102,
+    "pdf_page": 103
+  },
+  {
+    "id": 59,
+    "equipment_name": "PF-0330-MC",
+    "category": "Fog Cannon",
+    "handbook_page": 106,
+    "pdf_page": 107
+  },
+  {
+    "id": 60,
+    "equipment_name": "PF-1150-MC",
+    "category": "Fog Cannon",
+    "handbook_page": 108,
+    "pdf_page": 109
+  },
+  {
+    "id": 61,
+    "equipment_name": "PF-3780-MC",
+    "category": "Fog Cannon",
+    "handbook_page": 110,
+    "pdf_page": 111
+  },
+  {
+    "id": 62,
+    "equipment_name": "PF-75120-MC",
+    "category": "Fog Cannon",
+    "handbook_page": 112,
+    "pdf_page": 113
+  },
+  {
+    "id": 63,
+    "equipment_name": "CR-1-HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 115,
+    "pdf_page": 116
+  },
+  {
+    "id": 64,
+    "equipment_name": "CR-1-ULPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 119,
+    "pdf_page": 120
+  },
+  {
+    "id": 65,
+    "equipment_name": "B-8 RE HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 126,
+    "pdf_page": 127
+  },
+  {
+    "id": 66,
+    "equipment_name": "CR-4D",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 129,
+    "pdf_page": 130
+  },
+  {
+    "id": 67,
+    "equipment_name": "CR-1400WD/CR-1400D",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 134,
+    "pdf_page": 135
+  },
+  {
+    "id": 68,
+    "equipment_name": "MV-1CR(GC)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 142,
+    "pdf_page": 143
+  },
+  {
+    "id": 69,
+    "equipment_name": "CWR-10 EX (CV)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 146,
+    "pdf_page": 147
+  },
+  {
+    "id": 70,
+    "equipment_name": "C-25 EX TC WET & DRY",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 151,
+    "pdf_page": 152
+  },
+  {
+    "id": 71,
+    "equipment_name": "C-35L EX DT",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 155,
+    "pdf_page": 156
+  },
+  {
+    "id": 72,
+    "equipment_name": "C-10 EX (4W) W/3D",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 160,
+    "pdf_page": 161
+  },
+  {
+    "id": 73,
+    "equipment_name": "CD-55L (DT) EX(MFS)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 165,
+    "pdf_page": 166
+  },
+  {
+    "id": 74,
+    "equipment_name": "4D-35L EX DT MFS HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 170,
+    "pdf_page": 171
+  },
+  {
+    "id": 75,
+    "equipment_name": "EXP1-20L (DT) RE HEPA (MFS)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 175,
+    "pdf_page": 176
+  },
+  {
+    "id": 76,
+    "equipment_name": "EXP1-10 (4W) RE HEPA (MRAC)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 179,
+    "pdf_page": 180
+  },
+  {
+    "id": 77,
+    "equipment_name": "CD/EUR-36L EX DT (MRP) HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 183,
+    "pdf_page": 184
+  },
+  {
+    "id": 78,
+    "equipment_name": "ATEX-12A (2+2W)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 190,
+    "pdf_page": 191
+  },
+  {
+    "id": 79,
+    "equipment_name": "AVSD-40L (2+2W) MR HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 194,
+    "pdf_page": 195
+  },
+  {
+    "id": 80,
+    "equipment_name": "AVSD-100L DT (MFS) RE HEPA (SINGLE/TWIN VENTURI)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 198,
+    "pdf_page": 199
+  },
+  {
+    "id": 81,
+    "equipment_name": "CD-3 EX",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 202,
+    "pdf_page": 203
+  },
+  {
+    "id": 82,
+    "equipment_name": "CD-4 EX (MFS)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 206,
+    "pdf_page": 207
+  },
+  {
+    "id": 83,
+    "equipment_name": "CD-10/7 EX (MRP-EXTENDED)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 211,
+    "pdf_page": 212
+  },
+  {
+    "id": 84,
+    "equipment_name": "2D-25L (DT) MFS WT",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 217,
+    "pdf_page": 218
+  },
+  {
+    "id": 85,
+    "equipment_name": "CD-1500 CR",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 221,
+    "pdf_page": 222
+  },
+  {
+    "id": 86,
+    "equipment_name": "TV-25L (DT) MFS HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 225,
+    "pdf_page": 226
+  },
+  {
+    "id": 87,
+    "equipment_name": "CD-230V EX (CFB)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 228,
+    "pdf_page": 229
+  },
+  {
+    "id": 88,
+    "equipment_name": "CD-10 EX (APS)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 232,
+    "pdf_page": 233
+  },
+  {
+    "id": 89,
+    "equipment_name": "SS-40/160L EX (RPS)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 237,
+    "pdf_page": 238
+  },
+  {
+    "id": 90,
+    "equipment_name": "CD-600 EX",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 241,
+    "pdf_page": 242
+  },
+  {
+    "id": 91,
+    "equipment_name": "CD-1200 EX",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 245,
+    "pdf_page": 246
+  },
+  {
+    "id": 92,
+    "equipment_name": "TV-1200",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 250,
+    "pdf_page": 251
+  },
+  {
+    "id": 93,
+    "equipment_name": "ATEX-40A (CR)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 254,
+    "pdf_page": 255
+  },
+  {
+    "id": 94,
+    "equipment_name": "CR-1000 (SS)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 258,
+    "pdf_page": 259
+  },
+  {
+    "id": 95,
+    "equipment_name": "HOGOIL STANDARD",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 263,
+    "pdf_page": 264
+  },
+  {
+    "id": 96,
+    "equipment_name": "C-10 EX (4W)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 267,
+    "pdf_page": 268
+  },
+  {
+    "id": 97,
+    "equipment_name": "2D-10 (IT-40L) CFE HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 272,
+    "pdf_page": 273
+  },
+  {
+    "id": 98,
+    "equipment_name": "EXP1-10 (IT-40L)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 276,
+    "pdf_page": 277
+  },
+  {
+    "id": 99,
+    "equipment_name": "C-10 EX (2+2W) SK HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 281,
+    "pdf_page": 282
+  },
+  {
+    "id": 100,
+    "equipment_name": "CD-IT (85L) EX (CFE) SK HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 286,
+    "pdf_page": 287
+  },
+  {
+    "id": 101,
+    "equipment_name": "SS-IT (85L) EX (CFE) SK HEPA WET (WATER)",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 291,
+    "pdf_page": 292
+  },
+  {
+    "id": 102,
+    "equipment_name": "AVSD-40L (2+2W) HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 296,
+    "pdf_page": 297
+  },
+  {
+    "id": 103,
+    "equipment_name": "AS-400 ECO HEPA SK",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 301,
+    "pdf_page": 302
+  },
+  {
+    "id": 104,
+    "equipment_name": "2D-15 (IT-63L) SK (CFE) HEPA",
+    "category": "Tiger Vac Vacuum",
+    "handbook_page": 305,
+    "pdf_page": 306
+  },
+  {
+    "id": 105,
+    "equipment_name": "PFTNE3",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 308,
+    "pdf_page": 309
+  },
+  {
+    "id": 106,
+    "equipment_name": "PF1232-HEPA",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 324,
+    "pdf_page": 325
+  },
+  {
+    "id": 107,
+    "equipment_name": "PF0706-BP-BT",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 325,
+    "pdf_page": 326
+  },
+  {
+    "id": 108,
+    "equipment_name": "PF1206-BT-HEPA",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 326,
+    "pdf_page": 327
+  },
+  {
+    "id": 109,
+    "equipment_name": "PF2230-CD-HEPA",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 327,
+    "pdf_page": 328
+  },
+  {
+    "id": 110,
+    "equipment_name": "PF36120-T-HEPA",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 328,
+    "pdf_page": 329
+  },
+  {
+    "id": 111,
+    "equipment_name": "PF13100-P",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 329,
+    "pdf_page": 330
+  },
+  {
+    "id": 112,
+    "equipment_name": "PF75110-HT-CD-HEPA",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 331,
+    "pdf_page": 331
+  },
+  {
+    "id": 113,
+    "equipment_name": "PF1580-BT",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 331,
+    "pdf_page": 332
+  },
+  {
+    "id": 114,
+    "equipment_name": "PF2480",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 332,
+    "pdf_page": 333
+  },
+  {
+    "id": 115,
+    "equipment_name": "PF3080-SS-CD-HEPA",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 333,
+    "pdf_page": 334
+  },
+  {
+    "id": 116,
+    "equipment_name": "PF3680",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 334,
+    "pdf_page": 335
+  },
+  {
+    "id": 117,
+    "equipment_name": "PF4080-SS-CD-HEPA",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 335,
+    "pdf_page": 336
+  },
+  {
+    "id": 118,
+    "equipment_name": "PF75100-CD-HEPA",
+    "category": "Powerflush Vacuum",
+    "handbook_page": 336,
+    "pdf_page": 337
+  },
+  {
+    "id": 119,
+    "equipment_name": "DV-2-MET",
+    "category": "Goodway Industrial Vacuum",
+    "handbook_page": 317,
+    "pdf_page": 318
+  },
+  {
+    "id": 120,
+    "equipment_name": "DV-CM7.5",
+    "category": "Goodway Industrial Vacuum",
+    "handbook_page": 318,
+    "pdf_page": 319
+  },
+  {
+    "id": 121,
+    "equipment_name": "DV-CM4",
+    "category": "Goodway Industrial Vacuum",
+    "handbook_page": 319,
+    "pdf_page": 320
+  },
+  {
+    "id": 122,
+    "equipment_name": "DV-CNC",
+    "category": "Goodway Industrial Vacuum",
+    "handbook_page": 320,
+    "pdf_page": 321
+  },
+  {
+    "id": 123,
+    "equipment_name": "DV-CV8.5",
+    "category": "Goodway Industrial Vacuum",
+    "handbook_page": 321,
+    "pdf_page": 322
+  },
+  {
+    "id": 124,
+    "equipment_name": "DV-CV13",
+    "category": "Goodway Industrial Vacuum",
+    "handbook_page": 322,
+    "pdf_page": 323
+  },
+  {
+    "id": 125,
+    "equipment_name": "VAC-3A",
+    "category": "Goodway Industrial Vacuum",
+    "handbook_page": 323,
+    "pdf_page": 324
+  }
+]

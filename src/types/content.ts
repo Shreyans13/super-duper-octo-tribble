@@ -282,6 +282,8 @@ export interface FormField {
   type: 'text' | 'email' | 'tel' | 'textarea' | 'select';
   placeholder?: string;
   required?: boolean;
+  pattern?: string;
+  patternMessage?: string;
   options?: Array<{ value: string; label: string }>;
 }
 
@@ -297,6 +299,7 @@ export interface ContactContent {
   };
   form: {
     heading: string;
+    formspreeId: string;
     fields: FormField[];
     submitButton: string;
     successMessage: string;

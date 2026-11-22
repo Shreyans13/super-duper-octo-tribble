@@ -24,6 +24,7 @@ const ContactPage: React.FC = () => {
 
       <ContactFormSection
         heading={data.form.heading}
+        formspreeId={data.form.formspreeId}
         fields={data.form.fields}
         submitButton={data.form.submitButton}
         successMessage={data.form.successMessage}

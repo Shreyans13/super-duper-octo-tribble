@@ -34,6 +34,7 @@
   },
   "form": {
     "heading": "Send us a Message",
+    "formspreeId": "mzervyba",
     "fields": [
       {
         "name": "name",
@@ -47,7 +48,7 @@
         "label": "Company",
         "type": "text",
         "placeholder": "Company Name",
-        "required": false
+        "required": true
       },
       {
         "name": "email",
@@ -61,7 +62,9 @@
         "label": "Phone",
         "type": "tel",
         "placeholder": "+91 XXXXX XXXXX",
-        "required": false
+        "required": true,
+        "pattern": "(?:\\+91(?:\\s|-)?|0)?\\d(?:(?:\\s|-)?\\d){9}",
+        "patternMessage": "Enter a valid 10-digit phone number, optionally starting with +91 or 0"
       },
       {
         "name": "inquiryType",
@@ -72,7 +75,9 @@
         "options": [
           { "value": "", "label": "Select inquiry type" },
           { "value": "rental", "label": "Equipment Rental" },
-          { "value": "purchase", "label": "Product Purchase" },
+          { "value": "chemicals", "label": "Cleaning Chemicals" },
+          { "value": "spill", "label": "Spill Products" },
+          { "value": "equipment", "label": "Maintenance Equipment" },
           { "value": "maintenance", "label": "Maintenance Service" },
           { "value": "support", "label": "Technical Support" },
           { "value": "partnership", "label": "Partnership Opportunity" }

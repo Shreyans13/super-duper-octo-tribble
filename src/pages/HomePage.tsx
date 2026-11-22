@@ -11,16 +11,6 @@ const HomePage: React.FC = () => {
   // Assign unique products to each section to avoid duplicates
   // Total products: 49 (Boyd 0-9, Fluid 10-15, JK 16-25, NewPig 26-36, Stanley 37-42, Wurth 43-48)
 
-  // HeroSection: One product from each company category (6 products)
-  const heroProducts = [
-    products.items[0],   // Boyd Inc.
-    products.items[10],  // Fluid Controls
-    products.items[16],  // JKET Chennai
-    products.items[26],  // New Pig India
-    products.items[37],  // Stanley Black & Decker
-    products.items[43],  // Würth
-  ].filter(Boolean);
-
   // AboutSection: Use different products - mix from different companies (4 products)
   // Using indices that don't overlap with hero: 1, 11, 17, 27
   const aboutProducts = [
@@ -50,7 +40,7 @@ const HomePage: React.FC = () => {
 
   return (
     <>
-      <HeroSection data={data.hero} products={heroProducts} />
+      <HeroSection data={data.hero} />
       <AboutSection data={data.about} products={aboutProducts} />
       <PartnersSection data={data.partners} products={partnersProducts} />
       <ClientsSection data={data.clients} products={clientsProducts} />
